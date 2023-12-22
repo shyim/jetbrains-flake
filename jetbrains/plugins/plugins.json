@@ -425,6 +425,37 @@
       },
       "name": "darcula-pitch-black"
     },
+    "16136": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "232.10072.781": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.284": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.286": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.287": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.290": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.293": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.296": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.297": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.298": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.300": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip",
+        "233.11799.303": "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip"
+      },
+      "name": "grazie-pro"
+    },
     "17718": {
       "compatible": [
         "clion",
@@ -584,6 +615,7 @@
     "https://plugins.jetbrains.com/files/13017/364038/keymap-visualStudio-232.8660.88.zip": "sha256-5S8u7w14fLkaTcjACfUSun9pMNtPk20/8+Dr5Sp9sDE=",
     "https://plugins.jetbrains.com/files/13017/445774/keymap-visualStudio-233.11799.165.zip": "sha256-Nb2tSxL+mAY1qJ3waipgV8ep+0R/BaYnzz7zfwtLHmk=",
     "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar": "sha256-eXInfAqY3yEZRXCAuv3KGldM1pNKEioNwPB0rIGgJFw=",
+    "https://plugins.jetbrains.com/files/16136/455987/grazie-pro-0.3.271.zip": "sha256-oAjuDcSC7kzOJ5WJIbh3dJz+PI1iRH0CGCstihDCyR0=",
     "https://plugins.jetbrains.com/files/164/442850/IdeaVim-2.7.5-signed.zip": "sha256-MiF8MVWBEQqupoYyI+QOyXhSvJcoSgptePENByURphI=",
     "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip": "sha256-5v8S7j05e7jxpJAqvJbv8MYMDP6ueBQFnXxIjAkBVpg=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
