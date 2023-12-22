@@ -487,6 +487,37 @@
       },
       "name": "netbeans-6-5-keymap"
     },
+    "19668": {
+      "compatible": [
+        "clion",
+        "datagrip",
+        "goland",
+        "idea-community",
+        "idea-ultimate",
+        "mps",
+        "phpstorm",
+        "pycharm-community",
+        "pycharm-professional",
+        "rider",
+        "ruby-mine",
+        "rust-rover",
+        "webstorm"
+      ],
+      "builds": {
+        "232.10072.781": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.284": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.286": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.287": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.290": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.293": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.296": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.297": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.298": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.300": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar",
+        "233.11799.303": "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar"
+      },
+      "name": "gerry-themes-pro"
+    },
     "22407": {
       "compatible": [
         "clion",
@@ -525,6 +556,7 @@
     "https://plugins.jetbrains.com/files/164/442850/IdeaVim-2.7.5-signed.zip": "sha256-MiF8MVWBEQqupoYyI+QOyXhSvJcoSgptePENByURphI=",
     "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip": "sha256-5v8S7j05e7jxpJAqvJbv8MYMDP6ueBQFnXxIjAkBVpg=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
+    "https://plugins.jetbrains.com/files/19668/456862/GerryThemesPro.jar": "sha256-S5cNwMcmZhhzeIugNC/xY3F+oGiS6sFUkQjgBG4AhEg=",
     "https://plugins.jetbrains.com/files/22407/452893/intellij-rust-233.21799.284.zip": "sha256-NKKCWf0g1k/20f2ZUAWlCT9EojXwUdo8wkozTLKgT14=",
     "https://plugins.jetbrains.com/files/23136/438440/devenvsh-0.0.2.zip": "sha256-Jq/goXphsHLuuuO6oX5K1G5XV8BD7tj9MeOcY2Ad9hE=",
     "https://plugins.jetbrains.com/files/631/453254/python-233.11799.300.zip": "sha256-4CfaxRTO/GdTWYAnoz2TSqOGcsCKC7huNkJpCa8lhIU=",
