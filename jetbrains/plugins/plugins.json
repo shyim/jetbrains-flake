@@ -499,6 +499,17 @@
         "233.11799.300": "https://plugins.jetbrains.com/files/22407/452893/intellij-rust-233.21799.284.zip"
       },
       "name": "rust"
+    },
+    "23136": {
+      "compatible": [
+        "idea-ultimate",
+        "phpstorm"
+      ],
+      "builds": {
+        "233.11799.297": "https://plugins.jetbrains.com/files/23136/438440/devenvsh-0.0.2.zip",
+        "233.11799.300": "https://plugins.jetbrains.com/files/23136/438440/devenvsh-0.0.2.zip"
+      },
+      "name": "devenv-sh-support"
     }
   },
   "files": {
@@ -515,6 +526,7 @@
     "https://plugins.jetbrains.com/files/17718/454005/github-copilot-intellij-1.4.5.4049.zip": "sha256-5v8S7j05e7jxpJAqvJbv8MYMDP6ueBQFnXxIjAkBVpg=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/22407/452893/intellij-rust-233.21799.284.zip": "sha256-NKKCWf0g1k/20f2ZUAWlCT9EojXwUdo8wkozTLKgT14=",
+    "https://plugins.jetbrains.com/files/23136/438440/devenvsh-0.0.2.zip": "sha256-Jq/goXphsHLuuuO6oX5K1G5XV8BD7tj9MeOcY2Ad9hE=",
     "https://plugins.jetbrains.com/files/631/453254/python-233.11799.300.zip": "sha256-4CfaxRTO/GdTWYAnoz2TSqOGcsCKC7huNkJpCa8lhIU=",
     "https://plugins.jetbrains.com/files/6954/442937/kotlin-plugin-232-1.9.21-release-633-IJ10072.27.zip": "sha256-fDIY4qolt/XZ3EMSKm3qCvrvknoLrxUd8XgiyMkYRto=",
     "https://plugins.jetbrains.com/files/6981/453409/ini-233.11799.300.zip": "sha256-AGMs/SNFsWkcW+MD3SR+Qb6akdDdJJxCVY0PecVw1fU=",
