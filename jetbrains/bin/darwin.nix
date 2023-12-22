@@ -13,14 +13,13 @@
 , plugins ? [ ]
 , buildNumber
 , ...
-}@args:
+}:
 
 let
   loname = lib.toLower productShort;
 in
 stdenvNoCC.mkDerivation {
-  inherit pname src version plugins;
-  meta = args.meta // { mainProgram = "${product}.app"; };
+  inherit pname src version plugins meta;
   passthru.buildNumber = buildNumber;
   desktopName = product;
   dontFixup = true;
