@@ -13,7 +13,7 @@
 , plugins ? [ ]
 , buildNumber
 , ...
-}:
+}@args:
 
 let
   loname = lib.toLower productShort;
