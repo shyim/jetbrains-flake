@@ -1,6 +1,7 @@
 name: Build
 
 on:
+  workflow_dispatch:  
   push:
   schedule:
     - cron: '11 5 13 */2 *'
