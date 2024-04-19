@@ -139,8 +139,8 @@
         "phpstorm"
       ],
       "builds": {
-        "241.14494.237": "https://plugins.jetbrains.com/files/7219/518876/Symfony_Plugin-2023.1.268.zip",
-        "241.14494.240": "https://plugins.jetbrains.com/files/7219/518876/Symfony_Plugin-2023.1.268.zip"
+        "241.14494.237": "https://plugins.jetbrains.com/files/7219/524318/Symfony_Plugin-2023.1.269.zip",
+        "241.14494.240": "https://plugins.jetbrains.com/files/7219/524318/Symfony_Plugin-2023.1.269.zip"
       },
       "name": "symfony-support"
     },
@@ -808,7 +808,7 @@
     "https://plugins.jetbrains.com/files/6981/509027/ini-233.15026.15.zip": "sha256-6sTD+OFO/yA7m5o0XqoJKLcQ4zAFro7Iy7WNPfA49xM=",
     "https://plugins.jetbrains.com/files/6981/513562/ini-241.14494.240.zip": "sha256-QC42nC7mEE3X1cmKj8jkwzpDJzX7ZoOPEd9y6i8IuvM=",
     "https://plugins.jetbrains.com/files/6981/523274/ini-241.15989.49.zip": "sha256-AsXYoir1Omokyk7uhXyVfv0SHaSxk9r31sPLooYR20k=",
-    "https://plugins.jetbrains.com/files/7219/518876/Symfony_Plugin-2023.1.268.zip": "sha256-mYEuFdSaxw9Lc8yNgPB0ty6mfxjKaAa/jY6v4E2Qo0Q=",
+    "https://plugins.jetbrains.com/files/7219/524318/Symfony_Plugin-2023.1.269.zip": "sha256-T80Qglqn0Ym06Rh5qAHdC/WKX6hcCb6kNvNFXPd3yJ8=",
     "https://plugins.jetbrains.com/files/7320/507957/PHP_Annotations-10.0.0.zip": "sha256-JIZ6Iq3sOcAm8fBXnjRrG9dqCZuD/WajyVmn1JjYMBA=",
     "https://plugins.jetbrains.com/files/7322/502153/python-ce-233.14808.12.zip": "sha256-PUBR9krJ26QrL2jTus0b+uhzkEkT+lGnBKy1f4i/U+w=",
     "https://plugins.jetbrains.com/files/7322/513587/python-ce-241.14494.240.zip": "sha256-6YC/aoiTRLAh87C2v3k24BLBH/tsdTWuDK/CBv8y1QI=",
