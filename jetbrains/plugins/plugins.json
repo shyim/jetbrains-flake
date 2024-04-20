@@ -128,8 +128,8 @@
         "241.14494.241": "https://plugins.jetbrains.com/files/6981/513562/ini-241.14494.240.zip",
         "241.14494.288": "https://plugins.jetbrains.com/files/6981/513562/ini-241.14494.240.zip",
         "241.14494.325": "https://plugins.jetbrains.com/files/6981/513562/ini-241.14494.240.zip",
-        "241.15989.47": "https://plugins.jetbrains.com/files/6981/523274/ini-241.15989.49.zip",
-        "241.15989.49": "https://plugins.jetbrains.com/files/6981/523274/ini-241.15989.49.zip"
+        "241.15989.47": "https://plugins.jetbrains.com/files/6981/524788/ini-241.15989.69.zip",
+        "241.15989.49": "https://plugins.jetbrains.com/files/6981/524788/ini-241.15989.69.zip"
       },
       "name": "ini"
     },
@@ -168,7 +168,7 @@
         "241.14494.238": "https://plugins.jetbrains.com/files/7322/513587/python-ce-241.14494.240.zip",
         "241.14494.240": "https://plugins.jetbrains.com/files/7322/513587/python-ce-241.14494.240.zip",
         "241.14494.325": "https://plugins.jetbrains.com/files/7322/513587/python-ce-241.14494.240.zip",
-        "241.15989.49": "https://plugins.jetbrains.com/files/7322/521115/python-ce-241.15989.21.zip"
+        "241.15989.49": "https://plugins.jetbrains.com/files/7322/524818/python-ce-241.15989.69.zip"
       },
       "name": "python-community-edition"
     },
@@ -807,12 +807,12 @@
     "https://plugins.jetbrains.com/files/631/521307/python-241.14494.314.zip": "sha256-LFPN3bURT4gauDdoOgs+Rnq90RZ68/mrpw7/hfsq7VI=",
     "https://plugins.jetbrains.com/files/6981/509027/ini-233.15026.15.zip": "sha256-6sTD+OFO/yA7m5o0XqoJKLcQ4zAFro7Iy7WNPfA49xM=",
     "https://plugins.jetbrains.com/files/6981/513562/ini-241.14494.240.zip": "sha256-QC42nC7mEE3X1cmKj8jkwzpDJzX7ZoOPEd9y6i8IuvM=",
-    "https://plugins.jetbrains.com/files/6981/523274/ini-241.15989.49.zip": "sha256-AsXYoir1Omokyk7uhXyVfv0SHaSxk9r31sPLooYR20k=",
+    "https://plugins.jetbrains.com/files/6981/524788/ini-241.15989.69.zip": "sha256-pM+BO75kZ+N1aRliAP7iNrsFvYMWdGlkjRaekC3e8eg=",
     "https://plugins.jetbrains.com/files/7219/524318/Symfony_Plugin-2023.1.269.zip": "sha256-T80Qglqn0Ym06Rh5qAHdC/WKX6hcCb6kNvNFXPd3yJ8=",
     "https://plugins.jetbrains.com/files/7320/507957/PHP_Annotations-10.0.0.zip": "sha256-JIZ6Iq3sOcAm8fBXnjRrG9dqCZuD/WajyVmn1JjYMBA=",
     "https://plugins.jetbrains.com/files/7322/502153/python-ce-233.14808.12.zip": "sha256-PUBR9krJ26QrL2jTus0b+uhzkEkT+lGnBKy1f4i/U+w=",
     "https://plugins.jetbrains.com/files/7322/513587/python-ce-241.14494.240.zip": "sha256-6YC/aoiTRLAh87C2v3k24BLBH/tsdTWuDK/CBv8y1QI=",
-    "https://plugins.jetbrains.com/files/7322/521115/python-ce-241.15989.21.zip": "sha256-3QM5o0GAHyBlHlqMLoVkAv4hI5NVVHQDyZNL7eS2rSE=",
+    "https://plugins.jetbrains.com/files/7322/524818/python-ce-241.15989.69.zip": "sha256-RG4pXcX8KpN1es6qvuU/YL+2LUuOCyzkxy09tJ/XAIE=",
     "https://plugins.jetbrains.com/files/7425/514430/WakaTime.jar": "sha256-fiSUHKS/OFYGKKvLxVntAjdLv1hsuz6Lnpohc49+g7o=",
     "https://plugins.jetbrains.com/files/7622/332249/phpinspectionsea-5.0.0.0.jar": "sha256-DO2btbV6GRjZQm5Hxh84f9+epbkFuuOeYjqI5o2O9QI=",
     "https://plugins.jetbrains.com/files/7808/521568/terraform-241.14494.313.zip": "sha256-tvRPqcbQOdklr2Bl52O3m+JXgYLE3unWeH1wCGIpy1Q=",
