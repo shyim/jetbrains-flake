@@ -116,10 +116,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}.tar.gz",
-      "version": "2024.1.1",
-      "sha256": "fbcca2925eaa51b78f2ae1bf4252e7a5c5803e2427d354d8deb48ab626d21683",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.tar.gz",
-      "build_number": "241.15989.47"
+      "version": "2024.1.2",
+      "sha256": "10110ac54ab7db1ca4560f83fdb921ca6217437dba1ad4ceb1c6cf0887ec5f29",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.tar.gz",
+      "build_number": "241.15989.105"
     }
   },
   "aarch64-linux": {
@@ -239,10 +239,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}-aarch64.tar.gz",
-      "version": "2024.1.1",
-      "sha256": "2d9f1ad231df55fd6fc13e93ae5f822074e84028bf7d0ad832b44ff9f4795754",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.1-aarch64.tar.gz",
-      "build_number": "241.15989.47"
+      "version": "2024.1.2",
+      "sha256": "de1443570d2769e5dae11da2c3a8049c438f6f16b598a214ab000a300c148476",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.2-aarch64.tar.gz",
+      "build_number": "241.15989.105"
     }
   },
   "x86_64-darwin": {
@@ -362,10 +362,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}.dmg",
-      "version": "2024.1.1",
-      "sha256": "c0458e52da703899335d3339e6d27f99b5d38812bcd5af8ab7bf84b99790bf9a",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.1.dmg",
-      "build_number": "241.15989.47"
+      "version": "2024.1.2",
+      "sha256": "a5b79c530596bcef503847ea38a11263c871a9f8267d2e4fe4ef025c166d144f",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.2.dmg",
+      "build_number": "241.15989.105"
     }
   },
   "aarch64-darwin": {
@@ -485,10 +485,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}-aarch64.dmg",
-      "version": "2024.1.1",
-      "sha256": "efe18386c92687c83b2835dfc8fefbf35cdb60be12291ebf1a53b8e0f6b98823",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.1-aarch64.dmg",
-      "build_number": "241.15989.47"
+      "version": "2024.1.2",
+      "sha256": "b3ce2aabba5bc3afef95d768aa721bb245d2fce0ec8d69d61d011c2b23087d97",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2024.1.2-aarch64.dmg",
+      "build_number": "241.15989.105"
     }
   }
 }
