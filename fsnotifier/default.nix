@@ -1,12 +1,23 @@
 { lib
 , stdenv
 , fetchFromGitHub
-, fetchpatch
 }:
 
 stdenv.mkDerivation rec {
   version = "1.0.0";
   pname = "fsnotifier";
+
+  src = fetchFromGitHub {
+    owner = "JetBrains";
+    repo = "intellij-community";
+    rev = "0f6d9ccb67b8fcad0d802cd76209d503c4ed66a6";
+    sha256 = "3TAiVvKi50JQRrVG6J7LUJKTiuOTDyKt4DhoA1QmbrM=";
+    sparseCheckout = [ "native/fsNotifier/linux" ];
+  };
+
+  patches = [ ./fsnotifier.patch ];
+
+  sourceRoot = "${src.name}/native/fsNotifier/linux";
 
   buildPhase = ''
     mkdir -p $out/bin
@@ -15,6 +26,4 @@ stdenv.mkDerivation rec {
 
     cp fsnotifier $out/bin/fsnotifier
   '';
-
-  src = ./src;
 }
