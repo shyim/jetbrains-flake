@@ -16,6 +16,7 @@
         in
         {
           jetbrains = pkgs.callPackage ./jetbrains { };
+          fsnotifier = pkgs.callPackage ./fsnotifier { };
         }
       );
 
