@@ -1,7 +1,7 @@
-diff --git a/native/fsNotifier/linux/fsnotifier.h b/native/fsNotifier/linux/fsnotifier.h
+diff --git a/fsnotifier.h b/fsnotifier.h
 index e7b2a42456bc..9dfb61d8d5d0 100644
---- a/native/fsNotifier/linux/fsnotifier.h
-+++ b/native/fsNotifier/linux/fsnotifier.h
+--- a/fsnotifier.h
++++ b/fsnotifier.h
 @@ -61,7 +61,7 @@ bool init_inotify(void);
  void set_inotify_callback(void (*callback)(const char *, uint32_t));
  int get_inotify_fd(void);
@@ -11,10 +11,10 @@ index e7b2a42456bc..9dfb61d8d5d0 100644
  bool process_inotify_input(void);
  void close_inotify(void);
  
-diff --git a/native/fsNotifier/linux/inotify.c b/native/fsNotifier/linux/inotify.c
+diff --git a/inotify.c b/inotify.c
 index a42846379476..0a33eded78bf 100644
---- a/native/fsNotifier/linux/inotify.c
-+++ b/native/fsNotifier/linux/inotify.c
+--- a/inotify.c
++++ b/inotify.c
 @@ -22,6 +22,8 @@ typedef struct watch_node_str {
    struct watch_node_str* parent;
    array* kids;
@@ -263,10 +263,10 @@ index a42846379476..0a33eded78bf 100644
        }
      }
    }
-diff --git a/native/fsNotifier/linux/main.c b/native/fsNotifier/linux/main.c
+diff --git a/main.c b/main.c
 index b6b2e6fdb5b0..32cc8efe7856 100644
---- a/native/fsNotifier/linux/main.c
-+++ b/native/fsNotifier/linux/main.c
+--- a/main.c
++++ b/main.c
 @@ -246,7 +246,7 @@ static void unregister_roots(void) {
    watch_root* root;
    while ((root = array_pop(roots)) != NULL) {
