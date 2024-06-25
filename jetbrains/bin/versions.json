@@ -67,10 +67,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.tar.gz",
-      "version": "2024.1.3",
-      "sha256": "d785599f7d6bfdfb746eec68d5e606fe6df370909138243c35c549b574759432",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.3.tar.gz",
-      "build_number": "241.17890.8",
+      "version": "2024.1.4",
+      "sha256": "c6a9b57ecd8f588af512a1cba389738bd461531cab4f984ed9758abfdada822d",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.4.tar.gz",
+      "build_number": "241.18034.69",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -92,10 +92,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2024.1.3",
-      "sha256": "9cb256e2c12c493a5bbb7c84a44aa618732c67a137fa0eddb748a777e25b29d5",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.3.tar.gz",
-      "build_number": "241.17011.166"
+      "version": "2024.1.4",
+      "sha256": "e277c2636383c023f00bd7833be86ffe1f8f67cf98cb719bbb4293aa42ba8ad0",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.4.tar.gz",
+      "build_number": "241.18034.76"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -190,10 +190,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.tar.gz",
-      "version": "2024.1.3",
-      "sha256": "4c9637be78764d7f41394a23a1477c42346f3211a9f31683f3beb7dbeef700e7",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.3-aarch64.tar.gz",
-      "build_number": "241.17890.8",
+      "version": "2024.1.4",
+      "sha256": "45a11309799d23b1638a87ee4580bd5e8d4f50ea07d5467e99e416ae45a23b06",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.4-aarch64.tar.gz",
+      "build_number": "241.18034.69",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -215,10 +215,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.tar.gz",
-      "version": "2024.1.3",
-      "sha256": "8991e31b3edc0a4347a9711e4f7267b91d3176d47abfa4f560d83d214ba70ff0",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.3-aarch64.tar.gz",
-      "build_number": "241.17011.166"
+      "version": "2024.1.4",
+      "sha256": "e0f8ac64b87c093c7f97ea6ee340c7f518d14d4c68c17d0a2b7a9f079d2fcd62",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.4-aarch64.tar.gz",
+      "build_number": "241.18034.76"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -313,10 +313,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.dmg",
-      "version": "2024.1.3",
-      "sha256": "68403a8f6afd6d0a13355dd6ea8b333a1fd785fd1422fe902105d3c02359ee04",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.3.dmg",
-      "build_number": "241.17890.8",
+      "version": "2024.1.4",
+      "sha256": "ce844a947a96d819a59b35705fd1007c5193a444c3bb5d237179bfb3ceb2ed8b",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.4.dmg",
+      "build_number": "241.18034.69",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -338,10 +338,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2024.1.3",
-      "sha256": "54eccb5d26825ae5022ab57207197f4fea68a02a0e6c4dceb3c79ce81750b1e5",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.3.dmg",
-      "build_number": "241.17011.166"
+      "version": "2024.1.4",
+      "sha256": "2fc9e3063278e510b28eea0b2823b0c2309d08728d53261b48cbac093255cbfe",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.4.dmg",
+      "build_number": "241.18034.76"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -436,10 +436,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.dmg",
-      "version": "2024.1.3",
-      "sha256": "e4b767f5348fc3854ffc057baeffcd10c0c293b5aa3cbeeb2d2e7bd14531a4bb",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.3-aarch64.dmg",
-      "build_number": "241.17890.8",
+      "version": "2024.1.4",
+      "sha256": "8e5bffb20b1606195afe6818429e99b31c56f2e8f390c81cd6d92ff3de80de68",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.1.4-aarch64.dmg",
+      "build_number": "241.18034.69",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -461,10 +461,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2024.1.3",
-      "sha256": "ecde83909aff440727db6641c3f071c06e35b06e2148703ffa4ff270670469e2",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.3-aarch64.dmg",
-      "build_number": "241.17011.166"
+      "version": "2024.1.4",
+      "sha256": "0682ca85bb61534e39426d9f397eeb3c383dfd0a2e9dc4e8052d9e6408741fdb",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.4-aarch64.dmg",
+      "build_number": "241.18034.76"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
