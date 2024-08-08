@@ -35,26 +35,26 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "4db383d0a5ff0f543f1c100666c0d4cc2d7d6dc5547b4af179dd6c66aea91bff",
-      "url": "https://download.jetbrains.com/go/goland-2024.1.5.tar.gz",
-      "build_number": "241.18968.32"
+      "version": "2024.2",
+      "sha256": "c8b84db4b9a571501b410f35d03325484f10bde53a6e4ca1c194b8b512658cfa",
+      "url": "https://download.jetbrains.com/go/goland-2024.2.tar.gz",
+      "build_number": "242.20224.306"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "dd0f35088e0607896c407dc5d45c454f11fa2263204ac5624a598c59ff8694bd",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.1.5.tar.gz",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "70678d02fbba642b09c242a6453de4d79f411d1f6f029e357dfcd0da9ead871a",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.tar.gz",
+      "build_number": "242.20224.300"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "1094fc122a2cb6296dc2f8268b79b9b53078533d4be522eee751a13e99da2032",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.1.5.tar.gz",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "f059c9fd965a9dbf520381ee4119408f96c336eaa3b69a8c31abd1d716dbbfb4",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.tar.gz",
+      "build_number": "242.20224.300"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -109,9 +109,9 @@
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.tar.gz",
       "version": "2024.2 EAP",
-      "sha256": "4546d8097a60ae5119f934b035a73011bbe0b8028ecb929db16d5a21d8fd25f7",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-242.19890.43.tar.gz",
-      "build_number": "242.19890.43"
+      "sha256": "db1adb2da9e1ff3381ee644e2527f0d9d2cf332645607c49a893106613826ebb",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-242.20224.309.tar.gz",
+      "build_number": "242.20224.309"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -158,26 +158,26 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "d0eb33825b4707a5c62c6bfec17eba8be04922e578048c094ba1b5473933047d",
-      "url": "https://download.jetbrains.com/go/goland-2024.1.5-aarch64.tar.gz",
-      "build_number": "241.18968.32"
+      "version": "2024.2",
+      "sha256": "7e60e4394edae0aa2ce52fb45fdea94b83039c52d8a6624401d7ef8d0f312858",
+      "url": "https://download.jetbrains.com/go/goland-2024.2-aarch64.tar.gz",
+      "build_number": "242.20224.306"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "bc250c81035962e096c02d9cb751db47ea5b288331a7f8f3125f05e4eacf9a12",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.1.5-aarch64.tar.gz",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "0cd57862fd4045f1d719ae5c9ed6ee408d0715e8afb0e53cd84106cd54e520be",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2-aarch64.tar.gz",
+      "build_number": "242.20224.300"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "a0750337d81f02142d15a7d757df265795b14cb70adf367dc6e57e402da4c0c1",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.1.5-aarch64.tar.gz",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "66a410db6c293991c0e5b621982dc55842b3c893222295b535faff6e28ccce6b",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2-aarch64.tar.gz",
+      "build_number": "242.20224.300"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -232,9 +232,9 @@
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.tar.gz",
       "version": "2024.2 EAP",
-      "sha256": "6b6776baf3b679e0acd3afdbbd53eb7c26c9a9c5f1acfd21fd1e6b4df162196d",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-242.19890.43-aarch64.tar.gz",
-      "build_number": "242.19890.43"
+      "sha256": "48411946b3e78c06b855419df3207e8f462a7796b25edeb36d367b91bef2b7f1",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-242.20224.309-aarch64.tar.gz",
+      "build_number": "242.20224.309"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -281,26 +281,26 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
-      "version": "2024.1.5",
-      "sha256": "240c84565197e1eaf7afb152ff0cf1dec53663e66bd3a59ace6f1c236942a86a",
-      "url": "https://download.jetbrains.com/go/goland-2024.1.5.dmg",
-      "build_number": "241.18968.32"
+      "version": "2024.2",
+      "sha256": "0c0c29c8e79f2ccbd9e07cb93f5578067ae4b282c7e65959f3825a39db2ff29d",
+      "url": "https://download.jetbrains.com/go/goland-2024.2.dmg",
+      "build_number": "242.20224.306"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2024.1.5",
-      "sha256": "55e24178e55094f5a5f01a28591acf10f915f567e5b73c0295a080f93b4ae4aa",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.1.5.dmg",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "3fafdade624d6561e8e5299628993dce57b43f1ccf92717f29a4aed8026882df",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.dmg",
+      "build_number": "242.20224.300"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.dmg",
-      "version": "2024.1.5",
-      "sha256": "283629ff605996316c7513f9991cf1369d7814e987852e0d5d322fe2321310f3",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.1.5.dmg",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "8e68129e23c9ba55eb2e96b8bbea8cd19f22cddfa8f148ed0e87854d59fa2b03",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.dmg",
+      "build_number": "242.20224.300"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -355,9 +355,9 @@
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.dmg",
       "version": "2024.2 EAP",
-      "sha256": "036e2642873de2cad36f17b6048cc4fc9aaadbfff9c58e66944cc87c9e84bc3c",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-242.19890.43.dmg",
-      "build_number": "242.19890.43"
+      "sha256": "8d1409d81fb22bdd4be6a75ac01126e2732c6c50e711690452d2e6705147287e",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-242.20224.309.dmg",
+      "build_number": "242.20224.309"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -404,26 +404,26 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.dmg",
-      "version": "2024.1.5",
-      "sha256": "ff568681e9e4506157ecd6e66e1709466a53051f46c02f59f8bc524c67d2cf1d",
-      "url": "https://download.jetbrains.com/go/goland-2024.1.5-aarch64.dmg",
-      "build_number": "241.18968.32"
+      "version": "2024.2",
+      "sha256": "7316731401d9706a8dc8801239994a43bed556ed6eba542ebf02ce2115439672",
+      "url": "https://download.jetbrains.com/go/goland-2024.2-aarch64.dmg",
+      "build_number": "242.20224.306"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2024.1.5",
-      "sha256": "9a35a7e90ffcdd35c27098b585590901c63d66c9deb079c1958309f5cedfa855",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.1.5-aarch64.dmg",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "576de2a33b0fb5d120e0affce468539afb7d4e8c14e566610cd77b2deb095050",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2-aarch64.dmg",
+      "build_number": "242.20224.300"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.dmg",
-      "version": "2024.1.5",
-      "sha256": "e45e1e4c284bac343b01f0cd6817b370efbae49f919ddf085ab448c469b21967",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.1.5-aarch64.dmg",
-      "build_number": "241.18968.26"
+      "version": "2024.2",
+      "sha256": "0c7770f798a506b2e7b5b233723fc2b8865c6deb4ccce6a9697815ee1131c26b",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2-aarch64.dmg",
+      "build_number": "242.20224.300"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -478,9 +478,9 @@
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.dmg",
       "version": "2024.2 EAP",
-      "sha256": "bb080c8fc899860ed010e2cf3df75a06f98e14294be6c1f04faf78092a72d819",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-242.19890.43-aarch64.dmg",
-      "build_number": "242.19890.43"
+      "sha256": "8db468c8dc2b067a785618971dc89ad5e60705a94a874e116d4f7b910b7b7122",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-242.20224.309-aarch64.dmg",
+      "build_number": "242.20224.309"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
