@@ -11,10 +11,10 @@
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
       "url-template": "https://download.jetbrains.com/datagrip/datagrip-{version}.tar.gz",
-      "version": "2024.2",
-      "sha256": "7d55714f8e3afe3b3f6c7d34fd94ca6436917dcce771ac97e951f6c5eeb6a3f5",
-      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2.tar.gz",
-      "build_number": "242.20224.353"
+      "version": "2024.2.1",
+      "sha256": "dc6bae6c5ca4daa6d3eefd131d48f20810540f75ac635ed56eea7d00de9c0ee1",
+      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2.1.tar.gz",
+      "build_number": "242.20224.385"
     },
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
@@ -43,18 +43,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2024.2",
-      "sha256": "70678d02fbba642b09c242a6453de4d79f411d1f6f029e357dfcd0da9ead871a",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.tar.gz",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "f6a6a1e5d1603a13a3f9a6d3921a16bed3e54fbe803fbf851630104216e2b674",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.0.1.tar.gz",
+      "build_number": "242.20224.387"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.tar.gz",
-      "version": "2024.2",
-      "sha256": "f059c9fd965a9dbf520381ee4119408f96c336eaa3b69a8c31abd1d716dbbfb4",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.tar.gz",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "293fa50d4cbae4da55526b72c19650eca26efc8ef3a7107fed2371b70b812d6f",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.0.1.tar.gz",
+      "build_number": "242.20224.387"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -92,10 +92,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "22347912b46be29c3e585e47774fedaae9a8b4ef5cdab9f9794ff0cc98b30793",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.5.tar.gz",
-      "build_number": "241.18968.19"
+      "version": "2024.1.6",
+      "sha256": "e033996e06ca080200f7a96b1b6fd97fc65f9467fbc564ccc44ecabfec9fbe5e",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.6.tar.gz",
+      "build_number": "241.19072.26"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -134,10 +134,10 @@
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
       "url-template": "https://download.jetbrains.com/datagrip/datagrip-{version}-aarch64.tar.gz",
-      "version": "2024.2",
-      "sha256": "3370392201465f1c6b9146110e1ba466e2666e39d649f1b75576a4fb2cd9cd8a",
-      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2-aarch64.tar.gz",
-      "build_number": "242.20224.353"
+      "version": "2024.2.1",
+      "sha256": "6ca837be2f61e1db0d1a84b6c2a98d963d3625aa70fbdf6dfa9f73a9eb0c0b4d",
+      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2.1-aarch64.tar.gz",
+      "build_number": "242.20224.385"
     },
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
@@ -166,18 +166,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.tar.gz",
-      "version": "2024.2",
-      "sha256": "0cd57862fd4045f1d719ae5c9ed6ee408d0715e8afb0e53cd84106cd54e520be",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2-aarch64.tar.gz",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "7406fc8ea5b8cf6716c84d5bc208d29bdc22c42e3c83d101f6314453bacfe7fc",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.0.1-aarch64.tar.gz",
+      "build_number": "242.20224.387"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.tar.gz",
-      "version": "2024.2",
-      "sha256": "66a410db6c293991c0e5b621982dc55842b3c893222295b535faff6e28ccce6b",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2-aarch64.tar.gz",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "c2a5071e10f69f80889c8c310b6534a578fd90a7f11208f988caf070a3e650ec",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.0.1-aarch64.tar.gz",
+      "build_number": "242.20224.387"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -215,10 +215,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.tar.gz",
-      "version": "2024.1.5",
-      "sha256": "b8949fd72d5b320efdd42abb0f27e487850b9f16b0eda1b9720a330df10689be",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.5-aarch64.tar.gz",
-      "build_number": "241.18968.19"
+      "version": "2024.1.6",
+      "sha256": "587b480c01cac5e9d983a32322824c484b455e682c91e330643e667945110b4f",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.6-aarch64.tar.gz",
+      "build_number": "241.19072.26"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -257,10 +257,10 @@
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
       "url-template": "https://download.jetbrains.com/datagrip/datagrip-{version}.dmg",
-      "version": "2024.2",
-      "sha256": "13b76668fdc0f6e857ae34998ee8611e6f361f0ed7ef123bea8d86c335d22efc",
-      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2.dmg",
-      "build_number": "242.20224.353"
+      "version": "2024.2.1",
+      "sha256": "2053c1305fbabee20cf8a26aee2b939ff8965b2f7402639c09652798ebd37da6",
+      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2.1.dmg",
+      "build_number": "242.20224.385"
     },
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
@@ -289,18 +289,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2024.2",
-      "sha256": "3fafdade624d6561e8e5299628993dce57b43f1ccf92717f29a4aed8026882df",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.dmg",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "1a3c20c2ab9f1aadee441d46f90c39b6c04bf49862a73d1ab360ba1ecbed2eb2",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.0.1.dmg",
+      "build_number": "242.20224.387"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.dmg",
-      "version": "2024.2",
-      "sha256": "8e68129e23c9ba55eb2e96b8bbea8cd19f22cddfa8f148ed0e87854d59fa2b03",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.dmg",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "e8b6969cc09fe9864eacb630b392a77b62c0a3c71283d358ad2e41520249e1c3",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.0.1.dmg",
+      "build_number": "242.20224.387"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -338,10 +338,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2024.1.5",
-      "sha256": "6128515596e2431538f6b87083853d2572b1ddb6b25e074d104e42386b5bf8d4",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.5.dmg",
-      "build_number": "241.18968.19"
+      "version": "2024.1.6",
+      "sha256": "a6d28629ac4393c3d6636a09958de27a095a718d8531e7a7a511d50bf6919b61",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.6.dmg",
+      "build_number": "241.19072.26"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -380,10 +380,10 @@
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
       "url-template": "https://download.jetbrains.com/datagrip/datagrip-{version}-aarch64.dmg",
-      "version": "2024.2",
-      "sha256": "f8803a6392de1b00bf8a200add9fc5e4fd12ddfe1cfc656badc0812511f65954",
-      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2-aarch64.dmg",
-      "build_number": "242.20224.353"
+      "version": "2024.2.1",
+      "sha256": "6b8505ef67de19f312ce78bdbc067093aa95f78407a863b6baa16c7df98a6a98",
+      "url": "https://download.jetbrains.com/datagrip/datagrip-2024.2.1-aarch64.dmg",
+      "build_number": "242.20224.385"
     },
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
@@ -412,18 +412,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2024.2",
-      "sha256": "576de2a33b0fb5d120e0affce468539afb7d4e8c14e566610cd77b2deb095050",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2-aarch64.dmg",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "a6252e95a925bb8b66ef2e96c93ccad121160b7cfc32469247b7f8f28e63a3dd",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.0.1-aarch64.dmg",
+      "build_number": "242.20224.387"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.dmg",
-      "version": "2024.2",
-      "sha256": "0c7770f798a506b2e7b5b233723fc2b8865c6deb4ccce6a9697815ee1131c26b",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2-aarch64.dmg",
-      "build_number": "242.20224.300"
+      "version": "2024.2.0.1",
+      "sha256": "9f36246932f2f837d45bb9a6801c5291bb22968df091c6c9d4532acfdbe5eae1",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.0.1-aarch64.dmg",
+      "build_number": "242.20224.387"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -461,10 +461,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2024.1.5",
-      "sha256": "a0f25ca07947adcab2c01abb52fb2bd07a055a209379357bae2beecf6cf4442a",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.5-aarch64.dmg",
-      "build_number": "241.18968.19"
+      "version": "2024.1.6",
+      "sha256": "22d89aaa841f2ff4b5930a06d44c4efc0dbd9aaee7912c2d12dd103083ecd8c8",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.1.6-aarch64.dmg",
+      "build_number": "241.19072.26"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
