@@ -614,17 +614,17 @@
         "webstorm"
       ],
       "builds": {
-        "241.18034.1093": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.114": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.142": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.149": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.150": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.153": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.154": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.162": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.165": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.166": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip",
-        "242.21829.173": "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip"
+        "241.18034.1093": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.114": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.142": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.149": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.150": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.153": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.154": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.165": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.166": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip",
+        "242.21829.173": "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip"
       },
       "name": "github-copilot"
     },
@@ -770,9 +770,9 @@
         "rust-rover"
       ],
       "builds": {
-        "242.21829.114": "https://plugins.jetbrains.com/files/22407/594487/intellij-rust-242.21829.114.zip",
-        "242.21829.142": "https://plugins.jetbrains.com/files/22407/594487/intellij-rust-242.21829.114.zip",
-        "242.21829.173": "https://plugins.jetbrains.com/files/22407/594487/intellij-rust-242.21829.114.zip"
+        "242.21829.114": "https://plugins.jetbrains.com/files/22407/598980/intellij-rust-242.21829.198.zip",
+        "242.21829.142": "https://plugins.jetbrains.com/files/22407/598980/intellij-rust-242.21829.198.zip",
+        "242.21829.173": "https://plugins.jetbrains.com/files/22407/598980/intellij-rust-242.21829.198.zip"
       },
       "name": "rust"
     },
@@ -801,7 +801,7 @@
     "https://plugins.jetbrains.com/files/16136/596489/grazie-pro-0.3.329.zip": "sha256-Ts08/h/7B2OuzqjEbl8NuxoFxUrgKqKZedg8xBqwMZs=",
     "https://plugins.jetbrains.com/files/164/590339/IdeaVIM-2.16.0.zip": "sha256-uMIrYoZE16X/K96HuDJx8QMh6wUbi4+qSw+HJAq7ukI=",
     "https://plugins.jetbrains.com/files/17632/553915/shopware6-phpstorm-plugin-0.0.43-signed.zip": "sha256-2rt9gzZYWLN551+exEMERCJI2Whg+l5TRqdQnRER+48=",
-    "https://plugins.jetbrains.com/files/17718/590469/github-copilot-intellij-1.5.20.6554.zip": "sha256-QNVo6sLKwj+jJ2PMcJ3P5cAr1LwhFpH2+uglWO9ncQE=",
+    "https://plugins.jetbrains.com/files/17718/598710/github-copilot-intellij-1.5.21.6667.zip": "sha256-e8HxsXEmIg+jG10xjgipohmW8ioMLF8oJwAjsfoV/7M=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
     "https://plugins.jetbrains.com/files/19668/591693/GerryThemesPro.jar": "sha256-+T+rFnYaKYZP6cZPmhvVaTLmKiieHinhcxCIQpFeMpM=",
     "https://plugins.jetbrains.com/files/19791/471712/idea-phpstan-toolbox-0.0.7.zip": "sha256-pwnc8jk8jDRsbonJSfXr7VFcjjGIibuQVur95y96cus=",
@@ -809,7 +809,7 @@
     "https://plugins.jetbrains.com/files/21396/578853/instrumented-github-workflow-plugin-2024.1.1.jar": "sha256-hEJmBP0U43O9od68AXHf9nZMkC47xkNBKH06WEMf5Pk=",
     "https://plugins.jetbrains.com/files/21396/588598/github-workflow-plugin-2024.2.0-instrumented.jar": "sha256-9XWlDxmDfplFZylIHMUcb6DJFXcBN3/+Lx+3PJR4OMs=",
     "https://plugins.jetbrains.com/files/2162/542984/StringManipulation-9.14.1.zip": "sha256-OqeQCqFe8iW/8NPg+9i+UKh+twIPQ9uLZrItMukCi7k=",
-    "https://plugins.jetbrains.com/files/22407/594487/intellij-rust-242.21829.114.zip": "sha256-PjYe2beW7iQmYBwPWBcD7Z9R04yeK6S+1ofETagj5Po=",
+    "https://plugins.jetbrains.com/files/22407/598980/intellij-rust-242.21829.198.zip": "sha256-FOk15tRjpx/nkqyBfsnAg/NuX7dXvBhUEfTujp7ZZ1E=",
     "https://plugins.jetbrains.com/files/23136/544270/devenvsh-0.0.4.zip": "sha256-JUvXy0loDtsoJxzqf0q3IUKcp3ADl9iip9Uuj99F/wA=",
     "https://plugins.jetbrains.com/files/631/595102/python-242.21829.142.zip": "sha256-dj4iIATUB3PqS0d07VHeYB7jFGWVi5c/kChBUoqk9mI=",
     "https://plugins.jetbrains.com/files/6981/596022/ini-242.21829.162.zip": "sha256-J6v5zHD7n1uqp3p2TptZpkPbGtkdFZdNCA+Xw4aHKDE=",
