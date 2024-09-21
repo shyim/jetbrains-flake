@@ -92,10 +92,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2024.2.4",
-      "sha256": "b6462b294e23b46cc946f46c01759c709ca7a41c367fa87206f7992d45142602",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.4.tar.gz",
-      "build_number": "242.21829.210"
+      "version": "2024.2.5",
+      "sha256": "7c8b3fc459f0a6314ebf2b7da0a202cb0cbbc7df432fa047673f34fbad9f9dfe",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5.tar.gz",
+      "build_number": "242.22855.90"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -215,10 +215,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.tar.gz",
-      "version": "2024.2.4",
-      "sha256": "7f48d11f6ce272d703d2fecd4b3122bc2538603757485017c0ac7f4014843f38",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.4-aarch64.tar.gz",
-      "build_number": "242.21829.210"
+      "version": "2024.2.5",
+      "sha256": "1a3a4cfe64525b3d744fe82378fd86d84ac87b66a69a37f930ae05bdaaecb010",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5-aarch64.tar.gz",
+      "build_number": "242.22855.90"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -338,10 +338,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2024.2.4",
-      "sha256": "cb15c63682da744c78d65584c74817487c9b6d0e20311715392460263ff51f8b",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.4.dmg",
-      "build_number": "242.21829.210"
+      "version": "2024.2.5",
+      "sha256": "0161a1eb2d1e99ed88bebf26e7d1646434924a0878ab4c8e5ec1fc34b0998a5e",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5.dmg",
+      "build_number": "242.22855.90"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -461,10 +461,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2024.2.4",
-      "sha256": "d240c6e018c63f154e7575ca759ce338995068696bfb20d70b46860acbb8edab",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.4-aarch64.dmg",
-      "build_number": "242.21829.210"
+      "version": "2024.2.5",
+      "sha256": "bd89a85ccfbb019916fb4536d84a61b8013fcf67e12e13fd2855e27165a3b1d8",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.2.5-aarch64.dmg",
+      "build_number": "242.22855.90"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
