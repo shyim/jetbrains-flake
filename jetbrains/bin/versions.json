@@ -43,18 +43,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "b996f6418cd4beb8d77f5f283c0a37108e33b3c822a7d398dfa15b73967595b2",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.2.tar.gz",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "2698adf2f0c4239f21b997faf9fc85954fd654a58d52ff630613fed70fb9699d",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.3.tar.gz",
+      "build_number": "242.23339.11"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "4a8b6cee89e1baf9e252803c2e32e39ce923452d31807adfdedd836df7f96ef4",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.2.tar.gz",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "579021f82d31dceb0dd8581fe5c12d7481e52c24a10688898ed00af1a0295eb3",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.3.tar.gz",
+      "build_number": "242.23339.11"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -166,18 +166,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "53bc06be660138e2192d94383badd3cee743576970afe3b87402c453fa71ac35",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.2-aarch64.tar.gz",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "97d5b585b9c7d5465ef7a0e99a41c35c405a7658fe61ece64be84c6ed6e45e4c",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.3-aarch64.tar.gz",
+      "build_number": "242.23339.11"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "3e5c44a444ec397298d6eeb8a7b6401c630999b636aecbaee1134f3f05aed06a",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.2-aarch64.tar.gz",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "c6bf5a8183fb1c3422dec061e5198fa18bb6edaf2c64724efecf77fddaf747e1",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.3-aarch64.tar.gz",
+      "build_number": "242.23339.11"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -289,18 +289,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2024.2.2",
-      "sha256": "993676b837c7c08069120210d64d1bf32f260b40698014f4a4d1bffa763dd830",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.2.dmg",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "015db6b1a9b57b55db005d6eff8752e4155d52841f03dbd679e204d8ae9289e9",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.3.dmg",
+      "build_number": "242.23339.11"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.dmg",
-      "version": "2024.2.2",
-      "sha256": "f2528d8f6f983cbfe16e51221a71009ac3a46e8971259bfeb67471253c0d93f0",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.2.dmg",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "bc47dc27e81f0fd15a9b62132912e68051b5b9f31bef6faadfcf27a48db8ffa7",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.3.dmg",
+      "build_number": "242.23339.11"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -412,18 +412,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2024.2.2",
-      "sha256": "cb71c104ac76d0cba1e44cac61f1d463bb9d62fe139477966407e21bc30d8ea0",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.2-aarch64.dmg",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "67f71e9f2fd1401c46794e12cd660906fc4e667d68454f36807923dc5e5ffd42",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.2.3-aarch64.dmg",
+      "build_number": "242.23339.11"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.dmg",
-      "version": "2024.2.2",
-      "sha256": "27b777df1b2ba531d68ef30ebaaf11460a8ab055da8afcfb4886fce3d04d0227",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.2-aarch64.dmg",
-      "build_number": "242.22855.74"
+      "version": "2024.2.3",
+      "sha256": "985a90d418ecef8758b466a245c3170df95dd2024922fcf9195be74465d77fe4",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.2.3-aarch64.dmg",
+      "build_number": "242.23339.11"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
