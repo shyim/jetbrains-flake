@@ -572,17 +572,17 @@
         "webstorm"
       ],
       "builds": {
-        "241.18034.1093": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.21829.162": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.22855.75": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.22855.90": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.23339.11": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.23339.15": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.23339.16": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.23339.18": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.23339.19": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "242.23339.24": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip",
-        "243.15521.46": "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip"
+        "241.18034.1093": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.21829.162": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.22855.90": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.23339.11": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.23339.15": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.23339.16": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.23339.18": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.23339.19": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "242.23339.24": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip",
+        "243.15521.46": "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip"
       },
       "name": "grazie-pro"
     },
@@ -770,8 +770,8 @@
         "rust-rover"
       ],
       "builds": {
-        "242.22855.75": "https://plugins.jetbrains.com/files/22407/608018/intellij-rust-242.22855.126.zip",
-        "242.23339.11": "https://plugins.jetbrains.com/files/22407/608018/intellij-rust-242.22855.126.zip",
+        "242.22855.75": "https://plugins.jetbrains.com/files/22407/611483/intellij-rust-242.22855.133.zip",
+        "242.23339.11": "https://plugins.jetbrains.com/files/22407/611483/intellij-rust-242.22855.133.zip",
         "243.15521.46": "https://plugins.jetbrains.com/files/22407/609412/intellij-rust-243.15521.46.zip"
       },
       "name": "rust"
@@ -801,7 +801,7 @@
     "https://plugins.jetbrains.com/files/13017/591092/keymap-visualStudio-242.21829.44.zip": "sha256-aIwiMT30L3KCvbrkMUdgDdUdyBqGmT4w6c4pZEnMGNo=",
     "https://plugins.jetbrains.com/files/13017/605563/keymap-visualStudio-243.15521.16.zip": "sha256-j8XbqBM5N6h2KGwPPOo6QLthBQpnghGT1uh78GA+i/w=",
     "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar": "sha256-eXInfAqY3yEZRXCAuv3KGldM1pNKEioNwPB0rIGgJFw=",
-    "https://plugins.jetbrains.com/files/16136/607150/grazie-pro-0.3.334.zip": "sha256-4ysjqDwJz7BqsCbdoitdDlJ/BDWE6KY3dT0knhB8lqw=",
+    "https://plugins.jetbrains.com/files/16136/611401/grazie-pro-0.3.336.zip": "sha256-81l3Cm0v+X8cYUSgWLy5J87akvjv6x4ixcfupgknd9g=",
     "https://plugins.jetbrains.com/files/164/590339/IdeaVIM-2.16.0.zip": "sha256-uMIrYoZE16X/K96HuDJx8QMh6wUbi4+qSw+HJAq7ukI=",
     "https://plugins.jetbrains.com/files/17632/606182/shopware6-phpstorm-plugin-0.0.45.zip": "sha256-jSd5BeYBEtAjthhPSpfxQYmnJxwLZ2990ff0VK6e1UI=",
     "https://plugins.jetbrains.com/files/17718/607289/github-copilot-intellij-1.5.24.6840.zip": "sha256-2jcTuQruuUJUKEnomzl4DmqYZelk8Gygh8NT0PRwuOw=",
@@ -812,8 +812,8 @@
     "https://plugins.jetbrains.com/files/21396/578853/instrumented-github-workflow-plugin-2024.1.1.jar": "sha256-hEJmBP0U43O9od68AXHf9nZMkC47xkNBKH06WEMf5Pk=",
     "https://plugins.jetbrains.com/files/21396/588598/github-workflow-plugin-2024.2.0-instrumented.jar": "sha256-9XWlDxmDfplFZylIHMUcb6DJFXcBN3/+Lx+3PJR4OMs=",
     "https://plugins.jetbrains.com/files/2162/542984/StringManipulation-9.14.1.zip": "sha256-OqeQCqFe8iW/8NPg+9i+UKh+twIPQ9uLZrItMukCi7k=",
-    "https://plugins.jetbrains.com/files/22407/608018/intellij-rust-242.22855.126.zip": "sha256-mIiNKoSmkHxoKdHiDPN19wH8ejhRS2F0Cb63E7PDXP0=",
     "https://plugins.jetbrains.com/files/22407/609412/intellij-rust-243.15521.46.zip": "sha256-jvct/punpJZ6DkOt/H+RgcA0038cQhdxMKKZvsxtbgg=",
+    "https://plugins.jetbrains.com/files/22407/611483/intellij-rust-242.22855.133.zip": "sha256-s066u7JKJTUgBS7kQGaICaYmh7YjgsyhHVSugWUAVOM=",
     "https://plugins.jetbrains.com/files/23136/544270/devenvsh-0.0.4.zip": "sha256-JUvXy0loDtsoJxzqf0q3IUKcp3ADl9iip9Uuj99F/wA=",
     "https://plugins.jetbrains.com/files/631/608464/python-242.23339.11.zip": "sha256-qXKW4C5/XMw1MgZxUZt2RlmycNN4zRcKMsTbkKS/lTU=",
     "https://plugins.jetbrains.com/files/6981/596022/ini-242.21829.162.zip": "sha256-J6v5zHD7n1uqp3p2TptZpkPbGtkdFZdNCA+Xw4aHKDE=",
