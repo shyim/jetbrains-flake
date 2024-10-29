@@ -3,10 +3,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "1658fb15d41dfb804ab0ea3ed4781d4ae0f41d25cc9df17c3f536a565423aa5b",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2.tar.gz",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "0afb6e32fe1ceb77ddd07ca7fa7d01a0a5e73a0df42ec58183f9c1a06b84446e",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3.tar.gz",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -126,10 +126,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.tar.gz",
-      "version": "2024.2.2",
-      "sha256": "35e089b8d8bf5f32c80022f394fe525b8aa37540d26c27e861db0df9e34716a4",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.tar.gz",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "be3e6f0d490517c8f6e7c7ac248ab8e8823bf19c8102e7695725f80df6c11d63",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.tar.gz",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -249,10 +249,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2024.2.2",
-      "sha256": "35e1a0348353bc8c741c2dea429d0554c7d2a201e9c69b3bfc11c67accab2c52",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2.dmg",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "0dfc4d50268e58bb6b3c42c270ea8cca638a8733a5e2e010447cc74d585895e8",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3.dmg",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -372,10 +372,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2024.2.2",
-      "sha256": "428d557d4b5eb7687c7c8142b61591ef4fe7825891d91616019292280696180e",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.2-aarch64.dmg",
-      "build_number": "242.22855.75"
+      "version": "2024.2.3",
+      "sha256": "998d629381e6f596b8e0cf5289fe8ca7cfd3221fc73b6c8548d768889b14196f",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.2.3-aarch64.dmg",
+      "build_number": "242.23726.125"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
