@@ -770,9 +770,9 @@
         "rust-rover"
       ],
       "builds": {
-        "243.21565.136": "https://plugins.jetbrains.com/files/22407/630513/intellij-rust-243.21565.136.zip",
-        "243.21565.193": "https://plugins.jetbrains.com/files/22407/630513/intellij-rust-243.21565.136.zip",
-        "243.21565.238": "https://plugins.jetbrains.com/files/22407/630513/intellij-rust-243.21565.136.zip"
+        "243.21565.136": "https://plugins.jetbrains.com/files/22407/637238/intellij-rust-243.21565.245.zip",
+        "243.21565.193": "https://plugins.jetbrains.com/files/22407/637238/intellij-rust-243.21565.245.zip",
+        "243.21565.238": "https://plugins.jetbrains.com/files/22407/637238/intellij-rust-243.21565.245.zip"
       },
       "name": "rust"
     },
@@ -808,7 +808,7 @@
     "https://plugins.jetbrains.com/files/20146/633971/Mermaid-0.0.24_IJ.243.zip": "sha256-jGWRU0g120qYvvFiUFI10zvprTsemuIq3XmIjYxZGts=",
     "https://plugins.jetbrains.com/files/21396/578853/instrumented-github-workflow-plugin-2024.1.1.jar": "sha256-hEJmBP0U43O9od68AXHf9nZMkC47xkNBKH06WEMf5Pk=",
     "https://plugins.jetbrains.com/files/2162/542984/StringManipulation-9.14.1.zip": "sha256-OqeQCqFe8iW/8NPg+9i+UKh+twIPQ9uLZrItMukCi7k=",
-    "https://plugins.jetbrains.com/files/22407/630513/intellij-rust-243.21565.136.zip": "sha256-mkfqxDs97T9QzgLVFS5CksZiHrDWF3DdWulTuEfY3Po=",
+    "https://plugins.jetbrains.com/files/22407/637238/intellij-rust-243.21565.245.zip": "sha256-vePXT0q96cQffYWsHTjCkdl+ruGl+x4YVSrbqjvccdw=",
     "https://plugins.jetbrains.com/files/23136/544270/devenvsh-0.0.4.zip": "sha256-JUvXy0loDtsoJxzqf0q3IUKcp3ADl9iip9Uuj99F/wA=",
     "https://plugins.jetbrains.com/files/631/634183/python-243.21565.211.zip": "sha256-OTk8Wtn3QzU68EE0TQBik+hzZ1slPvj++qcpV0iMpXY=",
     "https://plugins.jetbrains.com/files/6981/633889/ini-243.21565.208.zip": "sha256-CJjUYj3GR9MrNhrejrxJ4reZX/80XQ+gkZffFKd0nhc=",
