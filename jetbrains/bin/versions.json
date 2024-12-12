@@ -92,18 +92,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2024.3",
-      "sha256": "ef9b61c18851b6f3ef2bfa3fe147b34ac191622f65a41f2b53b3a609f9bff360",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.tar.gz",
-      "build_number": "243.21565.191"
+      "version": "2024.3.2",
+      "sha256": "7c716bad550067960222bf1d97c5ac7c40d0ceba6cafd754065038f4d23b2a9e",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2.tar.gz",
+      "build_number": "243.22562.171"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2024.3",
-      "sha256": "391ed7fa3f46d672f9d2a9706f21c33f974472cb81ebb172931c6b16c8aa9836",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.tar.gz",
-      "build_number": "243.21565.197"
+      "version": "2024.3.1",
+      "sha256": "d288557a95b8f28b2bec32a749bf104ae33d2b0e899c164772856b82c1a51380",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.tar.gz",
+      "build_number": "243.22562.151"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -215,18 +215,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.tar.gz",
-      "version": "2024.3",
-      "sha256": "d1b9b3925ad79f50239f11c72f9d4f3ed52716251d54a3340e3aaf63f813d79e",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3-aarch64.tar.gz",
-      "build_number": "243.21565.191"
+      "version": "2024.3.2",
+      "sha256": "f1eff56a298f58bd25fcce7f7d572b2ba9e3bd1b51ff6457ab5f6dfe7f789b4a",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2-aarch64.tar.gz",
+      "build_number": "243.22562.171"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.tar.gz",
-      "version": "2024.3",
-      "sha256": "22daedfbc53cb07dd70c504d7e44366c902a17e39cc56bc8121e50db6da28238",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3-aarch64.tar.gz",
-      "build_number": "243.21565.197"
+      "version": "2024.3.1",
+      "sha256": "6c714429a73afce55ec1dff15ac78c31b0e3f719496dfa33d966f53f47076992",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1-aarch64.tar.gz",
+      "build_number": "243.22562.151"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -338,18 +338,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2024.3",
-      "sha256": "b8552f7e124b3d7678d6b7dfe3b54b13a70f70c4523f19d36f52172dc276ad3c",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.dmg",
-      "build_number": "243.21565.191"
+      "version": "2024.3.2",
+      "sha256": "8ad665e16509e7e3ed32265a2b6c8843bcbd2588f7768eb102c735f2b28b1584",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2.dmg",
+      "build_number": "243.22562.171"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2024.3",
-      "sha256": "bb6a97f54a1a108f92a88152c1c4af9e6d6b85e66cff4e55038c275b3a061971",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.dmg",
-      "build_number": "243.21565.197"
+      "version": "2024.3.1",
+      "sha256": "13d48b50c8f614496045a93ef168f4b2895447b328095934e7a2a32af0510364",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.dmg",
+      "build_number": "243.22562.151"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -461,18 +461,18 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2024.3",
-      "sha256": "2ca76a1d37bd429c8cfd8792512ecd6a9ff385c152e65c68a4620c8a67441e44",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3-aarch64.dmg",
-      "build_number": "243.21565.191"
+      "version": "2024.3.2",
+      "sha256": "8134c06510bdee910620bbf013d3a5bb3f230ddddf4b7340a1a2920c70b346e4",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2-aarch64.dmg",
+      "build_number": "243.22562.171"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2024.3",
-      "sha256": "410f621c351b57b6fdc15391f836f45a454f2accee8d49fd60848ced3ddd4c25",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3-aarch64.dmg",
-      "build_number": "243.21565.197"
+      "version": "2024.3.1",
+      "sha256": "e9642a76c2c174833442de0a8f4249e15045ee9a4d4153aa291bfc262539918e",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1-aarch64.dmg",
+      "build_number": "243.22562.151"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
