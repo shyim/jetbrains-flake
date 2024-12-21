@@ -19,10 +19,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}.tar.gz",
-      "version": "2024.3.1",
-      "sha256": "3407a15cf9a90f45567c5994eea4755d5462fa3dc59c41ce98ed4b00aa1ff4cf",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1.tar.gz",
-      "build_number": "243.22562.185"
+      "version": "2024.3.1.1",
+      "sha256": "37e0985cd3bac79cc74962edba726ccdde61101fc4e8876ed060396584332aa3",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1.1.tar.gz",
+      "build_number": "243.22562.236"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -100,10 +100,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2024.3.1",
-      "sha256": "d288557a95b8f28b2bec32a749bf104ae33d2b0e899c164772856b82c1a51380",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.tar.gz",
-      "build_number": "243.22562.151"
+      "version": "2024.3.1.1",
+      "sha256": "fe849fd90725f12c6dabb20973f1d5eb6fc9baddd692961197527326639d7def",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.tar.gz",
+      "build_number": "243.22562.213"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -142,10 +142,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}-aarch64.tar.gz",
-      "version": "2024.3.1",
-      "sha256": "61c830a307fe5e4191da88596c63483d64fd12a5ea248128921ca99c5d7c39b5",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1-aarch64.tar.gz",
-      "build_number": "243.22562.185"
+      "version": "2024.3.1.1",
+      "sha256": "31a564e58285a84b226017f18e658684720aa0a615f068447edbe817e6337f76",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1.1-aarch64.tar.gz",
+      "build_number": "243.22562.236"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -223,10 +223,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.tar.gz",
-      "version": "2024.3.1",
-      "sha256": "6c714429a73afce55ec1dff15ac78c31b0e3f719496dfa33d966f53f47076992",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1-aarch64.tar.gz",
-      "build_number": "243.22562.151"
+      "version": "2024.3.1.1",
+      "sha256": "af3cf7b5e8ac4306a4f5f03bcfc3425aa7ed3aa71f61213d85fd4f5a3d425b75",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1-aarch64.tar.gz",
+      "build_number": "243.22562.213"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -265,10 +265,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}.dmg",
-      "version": "2024.3.1",
-      "sha256": "a64eabb192181f81700f0c46c65ba7e6951f249f2f2055986c9e39b3dda911c0",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1.dmg",
-      "build_number": "243.22562.185"
+      "version": "2024.3.1.1",
+      "sha256": "eb5fd54f193f2c94de46c91957a4d36eedce8009cd272c5d8e4fc4763d9dafe3",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1.1.dmg",
+      "build_number": "243.22562.236"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -346,10 +346,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2024.3.1",
-      "sha256": "13d48b50c8f614496045a93ef168f4b2895447b328095934e7a2a32af0510364",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.dmg",
-      "build_number": "243.22562.151"
+      "version": "2024.3.1.1",
+      "sha256": "6762f4987be03eb4d6adccc8b9e093598a86c77d341695792c985d9a35b84703",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1.dmg",
+      "build_number": "243.22562.213"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -388,10 +388,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}-aarch64.dmg",
-      "version": "2024.3.1",
-      "sha256": "2c98c572e2eea113448758e70df5ceaba99291af66f28e10e8bf84d08a2526e2",
-      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1-aarch64.dmg",
-      "build_number": "243.22562.185"
+      "version": "2024.3.1.1",
+      "sha256": "cd2d146b54036d657b68343efb9c5f7cf234353f5ffdc9af85e05f63dbf7777c",
+      "url": "https://download.jetbrains.com/python/dataspell-2024.3.1.1-aarch64.dmg",
+      "build_number": "243.22562.236"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -469,10 +469,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2024.3.1",
-      "sha256": "e9642a76c2c174833442de0a8f4249e15045ee9a4d4153aa291bfc262539918e",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1-aarch64.dmg",
-      "build_number": "243.22562.151"
+      "version": "2024.3.1.1",
+      "sha256": "1e96dcbaf0b6d6821de44f394a671780b21e88fbb05a3cf67d90fcfb9dcbc559",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.1.1-aarch64.dmg",
+      "build_number": "243.22562.213"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
