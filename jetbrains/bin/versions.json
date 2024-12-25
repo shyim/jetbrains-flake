@@ -27,10 +27,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.tar.gz",
-      "version": "2024.3.1",
-      "sha256": "d672a5552e7cf0387e1fb93a6cadf3a4ca1d5d942de1c3d1adc0af3f092d1780",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1.tar.gz",
-      "build_number": "243.22562.160"
+      "version": "2024.3.1.1",
+      "sha256": "625bd0794b535b40926f3fed15b50e1df8ee181acd5a1a8fb174f19cd450cef0",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1.1.tar.gz",
+      "build_number": "243.22562.252"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -92,10 +92,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.tar.gz",
-      "version": "2024.3.2",
-      "sha256": "7c716bad550067960222bf1d97c5ac7c40d0ceba6cafd754065038f4d23b2a9e",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2.tar.gz",
-      "build_number": "243.22562.171"
+      "version": "2024.3.3",
+      "sha256": "3185826c0d85c06bf18c5ece3f5f9698acef006932b7a92b6cb190fd4d8e2807",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3.tar.gz",
+      "build_number": "243.22562.250"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -150,10 +150,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.tar.gz",
-      "version": "2024.3.1",
-      "sha256": "75b49b6f95e7c136ec6a27dc6c3b84f41e8d5149a6776c1a7e35c21e8363027d",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1-aarch64.tar.gz",
-      "build_number": "243.22562.160"
+      "version": "2024.3.1.1",
+      "sha256": "d5481582f8448659a293bc101b9ce2355368c60ab5a18370d4ba09a2eeebf458",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1.1-aarch64.tar.gz",
+      "build_number": "243.22562.252"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -215,10 +215,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.tar.gz",
-      "version": "2024.3.2",
-      "sha256": "f1eff56a298f58bd25fcce7f7d572b2ba9e3bd1b51ff6457ab5f6dfe7f789b4a",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2-aarch64.tar.gz",
-      "build_number": "243.22562.171"
+      "version": "2024.3.3",
+      "sha256": "8ca14eeae6a9164da955f9e292dda788bda53a031c24ef6c2fab505e3e2f175b",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3-aarch64.tar.gz",
+      "build_number": "243.22562.250"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -273,10 +273,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.dmg",
-      "version": "2024.3.1",
-      "sha256": "709bd2cc759eb29d88726a0c24db2f11eb2fc87ee1975d8e101a03226b919ebf",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1.dmg",
-      "build_number": "243.22562.160"
+      "version": "2024.3.1.1",
+      "sha256": "f31962a284ec68e175d6f5678c0e4fe33c0948514f92673bb7989b38c3622951",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1.1.dmg",
+      "build_number": "243.22562.252"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -338,10 +338,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}.dmg",
-      "version": "2024.3.2",
-      "sha256": "8ad665e16509e7e3ed32265a2b6c8843bcbd2588f7768eb102c735f2b28b1584",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2.dmg",
-      "build_number": "243.22562.171"
+      "version": "2024.3.3",
+      "sha256": "55e851ef7dcfde75bc8e81a9650577ffa2b3c1fed4f49c529b5bac766e8e734e",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3.dmg",
+      "build_number": "243.22562.250"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
@@ -396,10 +396,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.dmg",
-      "version": "2024.3.1",
-      "sha256": "0463fe8a955c61df0120c4b2b78f82c092f4b8da011d7d439b3862ee53441c91",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1-aarch64.dmg",
-      "build_number": "243.22562.160"
+      "version": "2024.3.1.1",
+      "sha256": "f4ff084d4054f75d3b10110b2abaddecbac30204d80c39dcb7a5925f2278c41a",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2024.3.1.1-aarch64.dmg",
+      "build_number": "243.22562.252"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -461,10 +461,10 @@
     "rider": {
       "update-channel": "Rider RELEASE",
       "url-template": "https://download.jetbrains.com/rider/JetBrains.Rider-{version}-aarch64.dmg",
-      "version": "2024.3.2",
-      "sha256": "8134c06510bdee910620bbf013d3a5bb3f230ddddf4b7340a1a2920c70b346e4",
-      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.2-aarch64.dmg",
-      "build_number": "243.22562.171"
+      "version": "2024.3.3",
+      "sha256": "139f8444b48c89745216616bc7a263259a95105892233651fb08b14cc18953a1",
+      "url": "https://download.jetbrains.com/rider/JetBrains.Rider-2024.3.3-aarch64.dmg",
+      "build_number": "243.22562.250"
     },
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
