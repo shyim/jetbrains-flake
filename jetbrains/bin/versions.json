@@ -3,10 +3,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "054eff2dcdb7779b97d940b5425ae7c56bfafd657367e3a749275ef6a0a40368",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.1.1.tar.gz",
-      "build_number": "243.22562.225"
+      "version": "2024.3.2",
+      "sha256": "f21d72269bc0f3ce618f925ded44b5da440bcf1ec4ef3d83335acd90d020b6fa",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.2.tar.gz",
+      "build_number": "243.23654.114"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -43,18 +43,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "b183b126de2cd457475eea184874b5da2fa33ba5ae2ff874bdc8c1d534156428",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.1.1.tar.gz",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "ad9d587b704806d9a21dfebe5c51415df94699bba958d7133763cfd56934ced8",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.2.tar.gz",
+      "build_number": "243.23654.117"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "d80684aa73fe9dee14ea405058d54a34340266cf675bfbaf4c760da6eb2d3fe9",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.1.1.tar.gz",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "05f30fff53c1b73f9c261e812c236134e203bf7d847424a27d9409fd6b0b6fcb",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.2.tar.gz",
+      "build_number": "243.23654.117"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -67,10 +67,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "8bb909b6322f296d4e44265223cffca2649e4344d1233b670f751c5b2d7ae698",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.1.1.tar.gz",
-      "build_number": "243.22562.233",
+      "version": "2024.3.2",
+      "sha256": "922f11f877b66d1815d5440b4891421269d2d235112e2fa6270b61096db36c2f",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.2.tar.gz",
+      "build_number": "243.23654.115",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -126,10 +126,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "dacd54a45145ed65b2c40520706432449e4bc3ff2bb23be6cb1fb4c73d9db223",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.1.1-aarch64.tar.gz",
-      "build_number": "243.22562.225"
+      "version": "2024.3.2",
+      "sha256": "95c19bbc97ebac6e61db214548a547dd3892e0e3520682a443006b4a682451df",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.2-aarch64.tar.gz",
+      "build_number": "243.23654.114"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -166,18 +166,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "8e82e9c1ff8bc561df88d9c6ef3b83498aecdac6f980b9df0cb183bc6dca0c90",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.1.1-aarch64.tar.gz",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "0135027b97fcabd8f9e31d34cd2444323c63c894ef3f8c6eaf734fbecb8694ef",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.2-aarch64.tar.gz",
+      "build_number": "243.23654.117"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "b3487662edf0904de4bfcd069231068350f7d8e964c0718b88ecbc18a83e5f47",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.1.1-aarch64.tar.gz",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "d41082d25ec1639d399a5cbbabf29afa8082d6eddff8b24e56107f159dbe85b4",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.2-aarch64.tar.gz",
+      "build_number": "243.23654.117"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -190,10 +190,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.tar.gz",
-      "version": "2024.3.1.1",
-      "sha256": "d6f0cb476f3a83636b14e7b678d2e0a7f47e060c63bf31a5d645ee7e18adb0fa",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.1.1-aarch64.tar.gz",
-      "build_number": "243.22562.233",
+      "version": "2024.3.2",
+      "sha256": "b01643f20e9db333baa5204f8e0cf7da2eb952ca9e5a526290daf8cb4b14b74f",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.2-aarch64.tar.gz",
+      "build_number": "243.23654.115",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -249,10 +249,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "276ae335421b6eddd1d7fbdc27fc826bf7ffa68e32a23f9335ff8be88d89b747",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.1.1.dmg",
-      "build_number": "243.22562.225"
+      "version": "2024.3.2",
+      "sha256": "ecfb07f2ed3985a82faa940df4bbf195c421ba9a32c2c85dd56f057f40b9af38",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.2.dmg",
+      "build_number": "243.23654.114"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -289,18 +289,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "505d978a27d0691a7ad8070c005e74bb13862fbb880b75ae924aa4f4558047a0",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.1.1.dmg",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "d60b7148d6d0da8d3bf1d43282d282d41ea8d7b3443d8173d4dd1e692c44ce9a",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.2.dmg",
+      "build_number": "243.23654.117"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "eca0be9cd1d35df6453075dd447c8945d97134b90d1de4313e9b98069d3a39a3",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.1.1.dmg",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "eaa4fc6f6aecdf023965d76f391fa5d438193d1f2fe42d6a8c2cffab7599c22b",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.2.dmg",
+      "build_number": "243.23654.117"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -313,10 +313,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "30a6f0cffa15034578bd026a80d3faf4469c2123d319a805cc31bfc59f2097a8",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.1.1.dmg",
-      "build_number": "243.22562.233",
+      "version": "2024.3.2",
+      "sha256": "df4b63e60d22a63d75f1780dc1354b570982eca6d4462ced232c2492a158d520",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.2.dmg",
+      "build_number": "243.23654.115",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -372,10 +372,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "57d7040f197dc1859ab16636bbb7006acc542eb15d1892692e78dc205bae2502",
-      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.1.1-aarch64.dmg",
-      "build_number": "243.22562.225"
+      "version": "2024.3.2",
+      "sha256": "fd9fdca6467ddc6baf24f85afb1b5f07b907521102523a8379ea35acd58492ee",
+      "url": "https://download.jetbrains.com/cpp/CLion-2024.3.2-aarch64.dmg",
+      "build_number": "243.23654.114"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -412,18 +412,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "ea8c050308c46e276055193d882daa6d965f33256a447c05d5ad9f22b54e5d14",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.1.1-aarch64.dmg",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "1cc440d163460d345aa31ccb9ca9309218f4f887ceddcd8eddf96d09b0218250",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2024.3.2-aarch64.dmg",
+      "build_number": "243.23654.117"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "308773c0f5d15754fbdf1bbaf2155e34b8808880afdee55e5ac8bad8d477162d",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.1.1-aarch64.dmg",
-      "build_number": "243.22562.218"
+      "version": "2024.3.2",
+      "sha256": "60c96ca67507f811d66ac1fa42a2a93d3310c4457f32689a6e10d0a04e6bc34a",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2024.3.2-aarch64.dmg",
+      "build_number": "243.23654.117"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -436,10 +436,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.dmg",
-      "version": "2024.3.1.1",
-      "sha256": "8d9a3251fea4611c8b90d010571965993836ff1738bc55c2c3692f37f6169eed",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.1.1-aarch64.dmg",
-      "build_number": "243.22562.233",
+      "version": "2024.3.2",
+      "sha256": "0fcec802f70143b926db9ce7700331dadf85063ea310cbb0360bc7428ec385bf",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2024.3.2-aarch64.dmg",
+      "build_number": "243.23654.115",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
