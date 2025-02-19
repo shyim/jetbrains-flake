@@ -100,10 +100,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2024.3.2.1",
-      "sha256": "94c68e534f420648316867470271d9a3111f3c2afa7fcde6a4e3986058b2cdd2",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.2.1.tar.gz",
-      "build_number": "243.23654.167"
+      "version": "2024.3.3",
+      "sha256": "7bf32950320259287b9b5f469cb3fe2c3971ac9308956a8203a28f7f0ea3e9fb",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.3.tar.gz",
+      "build_number": "243.24978.74"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -223,10 +223,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.tar.gz",
-      "version": "2024.3.2.1",
-      "sha256": "eacd0a8b9c8e5445bc52bac7094667b6d9f1973d951ae47878ced4af97c95a0b",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.2.1-aarch64.tar.gz",
-      "build_number": "243.23654.167"
+      "version": "2024.3.3",
+      "sha256": "bfe3cb6af58b853d1d1c48a43509de1d22b4b82b027ab39c22750d69f56caee6",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.tar.gz",
+      "build_number": "243.24978.74"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -346,10 +346,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2024.3.2.1",
-      "sha256": "93b58637964adbb7b8be9f69f64546cdf66420c3f4b9ef8548a0a3cf6c80b9c7",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.2.1.dmg",
-      "build_number": "243.23654.167"
+      "version": "2024.3.3",
+      "sha256": "a7f7d2d9b7c3fcf62567f60659b2dc4f24da089d20acfd451a1cd344b4887402",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.3.dmg",
+      "build_number": "243.24978.74"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -469,10 +469,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2024.3.2.1",
-      "sha256": "68235be97430c0e2e18b7bdc997604b63c092fa9f0e6529f11d488c44167fb51",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.2.1-aarch64.dmg",
-      "build_number": "243.23654.167"
+      "version": "2024.3.3",
+      "sha256": "0abff4cb97fb7ccc937420057053f01b69f0e84096983cfa16942fe224960ba2",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.3-aarch64.dmg",
+      "build_number": "243.24978.74"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
