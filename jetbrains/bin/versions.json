@@ -100,18 +100,18 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2024.3.4",
-      "sha256": "9454aaf0877516b2047bc21517b5459860bdb4cbc797d66612760a336c011ee3",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.4.tar.gz",
-      "build_number": "243.25659.41"
+      "version": "2024.3.5",
+      "sha256": "e5fb7daa24307927cfd329340956b4cae1e0f3bb011841834519c4342428d38b",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.5.tar.gz",
+      "build_number": "243.26053.19"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.tar.gz",
       "version": "2025.1 EAP",
-      "sha256": "5f59b0e8bc3cbd31f2fedffcf593a0d85449af481defde539e55fabbcaa05afd",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.2.tar.gz",
-      "build_number": "251.23774.2"
+      "sha256": "25196d03236db996071468576e7222b95ce229695877f075189c68ac90f4900e",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.119.tar.gz",
+      "build_number": "251.23774.119"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -223,18 +223,18 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.tar.gz",
-      "version": "2024.3.4",
-      "sha256": "c63ca3230cecd887e9810500f466c51ee9d7430193f4feda315a6fdfc60c0447",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.4-aarch64.tar.gz",
-      "build_number": "243.25659.41"
+      "version": "2024.3.5",
+      "sha256": "72a331a3c04a3d9f8bf30ad0b5009d4634f0fdcf5becd6a9a5cd00a5728cd9d1",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.5-aarch64.tar.gz",
+      "build_number": "243.26053.19"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.tar.gz",
       "version": "2025.1 EAP",
-      "sha256": "3a9e21f9756db856dd4312c984b562c216654a40744a27946a29726a88057a00",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.2-aarch64.tar.gz",
-      "build_number": "251.23774.2"
+      "sha256": "b4f93de4ebfbd49ca9cc515e1a3d7377263f6f5647f198be7704fa1f9c664256",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.119-aarch64.tar.gz",
+      "build_number": "251.23774.119"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -346,18 +346,18 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2024.3.4",
-      "sha256": "8cb255a6b66f77c5233cb2dd4c47cd4c8564c48cee3b1bb40128677a93cc39c8",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.4.dmg",
-      "build_number": "243.25659.41"
+      "version": "2024.3.5",
+      "sha256": "fb9f10ef6c0e5741bcd35abf148133002d92865899e4a98a276be64ff88b9688",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.5.dmg",
+      "build_number": "243.26053.19"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}.dmg",
       "version": "2025.1 EAP",
-      "sha256": "e49d7e3c5a7ff9bdf8fb73427bb3f5a0bb89a7dc8af5b10fd1da83f55fef672d",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.2.dmg",
-      "build_number": "251.23774.2"
+      "sha256": "ecf6201d8042e5df62ab1e4c3d86a32fd2e6144434c5c6ed5adf167b6440a893",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.119.dmg",
+      "build_number": "251.23774.119"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
@@ -469,18 +469,18 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2024.3.4",
-      "sha256": "7d93ff5df263a1526c0cb901e6df2abee547f9e9116f355cfc13a93a20b8ea4a",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.4-aarch64.dmg",
-      "build_number": "243.25659.41"
+      "version": "2024.3.5",
+      "sha256": "e7f12eeb72b3421108b8aafb03c4603b74e6ac8922dc192f2a2d5bb5811d4d48",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2024.3.5-aarch64.dmg",
+      "build_number": "243.26053.19"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
       "url-template": "https://download.jetbrains.com/rustrover/RustRover-{version}-aarch64.dmg",
       "version": "2025.1 EAP",
-      "sha256": "2201fc631050974cd08a85b9b0098325d5c7c1f2d8085fabe95280309e5894e5",
-      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.2-aarch64.dmg",
-      "build_number": "251.23774.2"
+      "sha256": "0f5ce1269f21f303746ff6e838438a751eea880955f072b60fc5280050bc206a",
+      "url": "https://download.jetbrains.com/rustrover/RustRover-251.23774.119-aarch64.dmg",
+      "build_number": "251.23774.119"
     },
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
