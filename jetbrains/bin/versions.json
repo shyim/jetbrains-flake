@@ -43,18 +43,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "e5abd978ec976bde4171dc380f9008c581db81b77a6e6420ce3e7cf35e9573ef",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.tar.gz",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "36b72ac85e8e1536dfccb300b5a435461b1e2953585a90a5d8f06e1b263b0b5c",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1.tar.gz",
+      "build_number": "251.25410.129"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "17d959a3adc60ed25ff7740b0acfcbbbe40b58cba13dcd97a6a6217ef7227a75",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.tar.gz",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "337d34b20cdaa8da30d71b98e1b36817bdfe2f2245c491ef38f0cee02f0d0316",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.tar.gz",
+      "build_number": "251.25410.129"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -166,18 +166,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "9cee10e27155966dfe49e62de8db9f17d6c205ee6b3b4883d9c4e5106d19fd41",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "7860b836a18b82827fdb54a86cc5601fe8ef28aab4253981f238ef975a982915",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1-aarch64.tar.gz",
+      "build_number": "251.25410.129"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "6ab3181c0ae28f69afeae1f0d9c010065b0d6344d46fc4ebd1fdfd11b6305d7f",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "756baa32d72bd982d9b8c06f86cd42755d2677a9f1ea37bd6ad6a963d17226b2",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.tar.gz",
+      "build_number": "251.25410.129"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -289,18 +289,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "c78313485a6735870673934f927ac19502321f2b7941f30a9e5fdbaf505c2098",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.dmg",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "ee1577a44930b94112819b200acd617cbb3efdfa039df7911094051e9a10e465",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1.dmg",
+      "build_number": "251.25410.129"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "16aad03ddc317d3bd3c124855ad8fa685a2bc6a6ef98e3a85de2bda745908274",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.dmg",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "eccd0ba3f9b1f2f680b946a3658830562fd4369dd11cc618b86671c8e237c375",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.dmg",
+      "build_number": "251.25410.129"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -412,18 +412,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "8f07855e9101480350dd8cc2f468ec4ad1a6d07a2c7834c82e6b1a2fd9746435",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "92ea35ebfcd9e34cd9bda0103ca036fe1f9eb900c005ae33a9295050ad636dae",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1-aarch64.dmg",
+      "build_number": "251.25410.129"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "f62879a25a3c63c4d32ea5e76df04d30663eda19a74a7ce1425f1e2616d26ebf",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.109"
+      "version": "2025.1.1.1",
+      "sha256": "5207878b28df2a13e4248c1936ee4fff7c89495e3d4ffdaa3b8da3f21548117e",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.dmg",
+      "build_number": "251.25410.129"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
