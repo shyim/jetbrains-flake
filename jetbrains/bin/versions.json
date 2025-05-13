@@ -35,10 +35,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
-      "version": "2025.1",
-      "sha256": "cc22617f9be233a13644d653f20cba29b05295bcb5bb77ac9621ee5447ae349a",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.tar.gz",
-      "build_number": "251.23774.430"
+      "version": "2025.1.1",
+      "sha256": "fb94d5df43942db47a5506b50e511457cf845b986e70168171b9f5324b7d0d77",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.1.tar.gz",
+      "build_number": "251.25410.140"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -158,10 +158,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.tar.gz",
-      "version": "2025.1",
-      "sha256": "f6b7f36efc9de54c83e49392882075868ba85b418a99cde47031795a79a30426",
-      "url": "https://download.jetbrains.com/go/goland-2025.1-aarch64.tar.gz",
-      "build_number": "251.23774.430"
+      "version": "2025.1.1",
+      "sha256": "949e86c6991e14d90adcaea75c18f679b1ab029ec0c00f00f464a631e999c036",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.1-aarch64.tar.gz",
+      "build_number": "251.25410.140"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -281,10 +281,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
-      "version": "2025.1",
-      "sha256": "587e7a7e56672405b31252567d47eccbc39a5623ec2b8f4f8bf424b038396b86",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.dmg",
-      "build_number": "251.23774.430"
+      "version": "2025.1.1",
+      "sha256": "0b00984d45430b37538bf9c55f8f93f1476f819fba1bdea2588ffd36d7e91cb3",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.1.dmg",
+      "build_number": "251.25410.140"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -404,10 +404,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.dmg",
-      "version": "2025.1",
-      "sha256": "6c478fc82467dc3f9970bc03b8c035210a0eb73cef9e32b27d6cd0dac9e166b6",
-      "url": "https://download.jetbrains.com/go/goland-2025.1-aarch64.dmg",
-      "build_number": "251.23774.430"
+      "version": "2025.1.1",
+      "sha256": "52e62d5a616b6ab6bf36f0d40d1925e9f477fcf84e187a2a1194d56d5ccae6ec",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.1-aarch64.dmg",
+      "build_number": "251.25410.140"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
