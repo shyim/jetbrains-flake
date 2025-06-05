@@ -27,10 +27,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.tar.gz",
-      "version": "2025.1.1.1",
-      "sha256": "23ef9cc346835d1895934834d27e8ea420504ae0ba715a21215771147a963ee3",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.1.1.tar.gz",
-      "build_number": "251.25410.160"
+      "version": "2025.1.2",
+      "sha256": "666ea22f7bdfdbf327dd77b7292e2abf5a3ac356ae043fe8b35102d78437d7f2",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.2.tar.gz",
+      "build_number": "251.26094.128"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -43,18 +43,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.tar.gz",
-      "version": "2025.1.1.1",
-      "sha256": "36b72ac85e8e1536dfccb300b5a435461b1e2953585a90a5d8f06e1b263b0b5c",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1.tar.gz",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "70dc870bd31fda67de30d3a132cfed543d5e67c15c7db52f6f4c4691a044930a",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.2.tar.gz",
+      "build_number": "251.26094.121"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.tar.gz",
-      "version": "2025.1.1.1",
-      "sha256": "337d34b20cdaa8da30d71b98e1b36817bdfe2f2245c491ef38f0cee02f0d0316",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.tar.gz",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "1e675bda1314ae914b64b31a22309ba2eba6f35e6659e53d4b291e73c2fb856b",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.2.tar.gz",
+      "build_number": "251.26094.121"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -116,10 +116,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "411b6d93e47d7743aa9189f4a3cab3956c573ce406908da5621f8dee0098ad99",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.1.tar.gz",
-      "build_number": "251.25410.117"
+      "version": "2025.1.2",
+      "sha256": "055510371e3c6a8d9fbfcd352645d847d2c092309c4746222babe4af240c2eac",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.2.tar.gz",
+      "build_number": "251.26094.131"
     }
   },
   "aarch64-linux": {
@@ -150,10 +150,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.tar.gz",
-      "version": "2025.1.1.1",
-      "sha256": "06ce91e192bf1c72fdbc86a1bb781a35f0effac3f0e99168f1a978a9a5cf0d34",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.160"
+      "version": "2025.1.2",
+      "sha256": "306a3eea012a9c398d95e1579fab38c5979297390ae048c98bd32026bd0fbe7f",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.128"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -166,18 +166,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.tar.gz",
-      "version": "2025.1.1.1",
-      "sha256": "7860b836a18b82827fdb54a86cc5601fe8ef28aab4253981f238ef975a982915",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "d98c8d7bdc3e274d278b81ba2b6c1baa38f67be9407b4bfd3bad3413c6f128f1",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.121"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.tar.gz",
-      "version": "2025.1.1.1",
-      "sha256": "756baa32d72bd982d9b8c06f86cd42755d2677a9f1ea37bd6ad6a963d17226b2",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "0f982a4f4424bde5a33206c20df053a7afe174fe9d590943665504814a273c9d",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.121"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -239,10 +239,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "0156affae3222afb51cfe8a82e1eabf26f62bd91a74a2822fa821afd1eab9bad",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.117"
+      "version": "2025.1.2",
+      "sha256": "c182bcd17ff4d0188c0e024952677dd21415456a421c5c1aaa356870f2efa009",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.131"
     }
   },
   "x86_64-darwin": {
@@ -273,10 +273,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.dmg",
-      "version": "2025.1.1.1",
-      "sha256": "1df2a9ea68e3c2fb2f69b37067abb5e0f329fcc14daae45a061506ef1c95cdca",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.1.1.dmg",
-      "build_number": "251.25410.160"
+      "version": "2025.1.2",
+      "sha256": "b4e45266159352598d0cbd7b03283cb53260d20866ca77d57a43150e81cf3d09",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.2.dmg",
+      "build_number": "251.26094.128"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -289,18 +289,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}.dmg",
-      "version": "2025.1.1.1",
-      "sha256": "ee1577a44930b94112819b200acd617cbb3efdfa039df7911094051e9a10e465",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1.dmg",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "c64c7ff7fe2e73d7552f1727d912bb5f901d040c7269b4292f94190475580c2b",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.2.dmg",
+      "build_number": "251.26094.121"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}.dmg",
-      "version": "2025.1.1.1",
-      "sha256": "eccd0ba3f9b1f2f680b946a3658830562fd4369dd11cc618b86671c8e237c375",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1.dmg",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "bacfa3bcf48d57d8e8ca8d352895025ffc42ce395b9b0074b3b566dc217324c9",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.2.dmg",
+      "build_number": "251.26094.121"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -362,10 +362,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "44363b71b4ad461c07c2c0ae8424f6efabe356b347a2974765f88549a8ee183c",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.1.dmg",
-      "build_number": "251.25410.117"
+      "version": "2025.1.2",
+      "sha256": "c33853a8d8a2dd47ce3a795202e2d802a9f1888b2c998c91cdfc9bc66f9bb19a",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.2.dmg",
+      "build_number": "251.26094.131"
     }
   },
   "aarch64-darwin": {
@@ -396,10 +396,10 @@
     "gateway": {
       "update-channel": "Gateway RELEASE",
       "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.dmg",
-      "version": "2025.1.1.1",
-      "sha256": "399097f897cf503cc76d0b75e1568ae87864e0f0464858d71fcbd82e693de1e4",
-      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.1.1-aarch64.dmg",
-      "build_number": "251.25410.160"
+      "version": "2025.1.2",
+      "sha256": "1cf7dcdbb5408c9c7711a436e4c763df147ce332ce2e1f260fa246af87b0a58e",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.128"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
@@ -412,18 +412,18 @@
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIC-{version}-aarch64.dmg",
-      "version": "2025.1.1.1",
-      "sha256": "92ea35ebfcd9e34cd9bda0103ca036fe1f9eb900c005ae33a9295050ad636dae",
-      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.1.1-aarch64.dmg",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "61a64b8abf0b350cb14f963975fc87ec574bc4b50ae7944980c43c816ffad5a8",
+      "url": "https://download.jetbrains.com/idea/ideaIC-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.121"
     },
     "idea-ultimate": {
       "update-channel": "IntelliJ IDEA RELEASE",
       "url-template": "https://download.jetbrains.com/idea/ideaIU-{version}-aarch64.dmg",
-      "version": "2025.1.1.1",
-      "sha256": "5207878b28df2a13e4248c1936ee4fff7c89495e3d4ffdaa3b8da3f21548117e",
-      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.1.1-aarch64.dmg",
-      "build_number": "251.25410.129"
+      "version": "2025.1.2",
+      "sha256": "1c1afc32c8edcf1d2057a505f7f0b0dd1f1a20a6859172c1dd6a91a311a3167b",
+      "url": "https://download.jetbrains.com/idea/ideaIU-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.121"
     },
     "mps": {
       "update-channel": "MPS RELEASE",
@@ -485,10 +485,10 @@
     "webstorm": {
       "update-channel": "WebStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webstorm/WebStorm-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "7acfa46536b598b576775892ac46bb570dd06bc9461cc58c51b9efd4afd09139",
-      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.117"
+      "version": "2025.1.2",
+      "sha256": "298d53fcd1a979e6910f97d9a29ac9bc0ed12386838a93a6d279bb415cf4708f",
+      "url": "https://download.jetbrains.com/webstorm/WebStorm-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.131"
     }
   }
 }
