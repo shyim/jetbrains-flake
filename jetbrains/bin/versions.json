@@ -3,10 +3,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "2f747d7240d70b65ed98d736dbcd6ac2b98ac93aff993a63c5f8bd0f65918ac5",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.1.tar.gz",
-      "build_number": "251.25410.104"
+      "version": "2025.1.2",
+      "sha256": "3bdd0cd731bcdcd15de7ebee3ec36a13b82b72f68a77f6e6e780e36d88acd51e",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.2.tar.gz",
+      "build_number": "251.26094.123"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -35,10 +35,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "fb94d5df43942db47a5506b50e511457cf845b986e70168171b9f5324b7d0d77",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.1.tar.gz",
-      "build_number": "251.25410.140"
+      "version": "2025.1.2",
+      "sha256": "18d4465e8c50911d8f4ecd7ba75ee1aa14cf3d05eb4df39790729cf67bf2a638",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.2.tar.gz",
+      "build_number": "251.26094.127"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -126,10 +126,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "dcd7373dc9dd941703d18ae602dd384ce6d154a90745c37c3358bf1f6b41ed2e",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.104"
+      "version": "2025.1.2",
+      "sha256": "911568cef55f23b134a4c316b5436214c2b51638c14a3b243785e19e354c2d4c",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.123"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -158,10 +158,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "949e86c6991e14d90adcaea75c18f679b1ab029ec0c00f00f464a631e999c036",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.140"
+      "version": "2025.1.2",
+      "sha256": "71f8c4addac839823b9875e6f01f8ab98d7cf77ab9acf03c09e057cc5d030757",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.127"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -249,10 +249,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "e7558d0196390c18e2c11143aa59f2ad56c020d43ebd05057f997fa117abb484",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.1.dmg",
-      "build_number": "251.25410.104"
+      "version": "2025.1.2",
+      "sha256": "f7dde8532ba52d4cfaab37828ba52fa2e159d82baf1fa555c1a0e65bb1186a86",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.2.dmg",
+      "build_number": "251.26094.123"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -281,10 +281,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "0b00984d45430b37538bf9c55f8f93f1476f819fba1bdea2588ffd36d7e91cb3",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.1.dmg",
-      "build_number": "251.25410.140"
+      "version": "2025.1.2",
+      "sha256": "6d3c732fb3aadc7dad9bb6dafd294be04c82a4dd994223e4982b77213bf9a4b6",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.2.dmg",
+      "build_number": "251.26094.127"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -372,10 +372,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "475280e277cc94d18de228bf5f81ebd6ff14084c2e1d2b0db5b4612007dc46fe",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.104"
+      "version": "2025.1.2",
+      "sha256": "9a47d3d86f2465f4b741408ad3a792d63a4dff486a05103825e479dae4d63932",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.123"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -404,10 +404,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "52e62d5a616b6ab6bf36f0d40d1925e9f477fcf84e187a2a1194d56d5ccae6ec",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.140"
+      "version": "2025.1.2",
+      "sha256": "a30940d1b2659487ababc3a9ad8e4770236e90ad6c732cb1fd0c24690829a0ce",
+      "url": "https://download.jetbrains.com/go/goland-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.127"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
