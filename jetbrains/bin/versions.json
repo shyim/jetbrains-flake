@@ -67,10 +67,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "b64722ea715db8566754978af617716016deaa2cda3521cf05e4a049e5bbf6a3",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.1.tar.gz",
-      "build_number": "251.25410.148",
+      "version": "2025.1.2",
+      "sha256": "229f3afde8e3466e1d262de915420f66a5fc97858788cc08f7d0f0b826c2a77b",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2.tar.gz",
+      "build_number": "251.26094.133",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -100,10 +100,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "f5014b52770be4d1c743c5a60f0e20d0dd1a1c172018180d05c0a22f1ffd1027",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.1.tar.gz",
-      "build_number": "251.25410.120"
+      "version": "2025.1.2",
+      "sha256": "2d4127e0284a262acb015c9d4247b654592e045b61664043a4de56029b45174f",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.2.tar.gz",
+      "build_number": "251.26094.122"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -190,10 +190,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "6e479318f5627ec1d6ccd47610a93aa9e9a56c9badd2be4d8f935008d0e71b9e",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.148",
+      "version": "2025.1.2",
+      "sha256": "2c3b703fc1d97e87fa02664bd1165ecf8439898b0a4561f522edd0252606ab5a",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.133",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -223,10 +223,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.tar.gz",
-      "version": "2025.1.1",
-      "sha256": "00b7526795af4e7eba1c65fc5e10a963e717770e68c5bfd28b10163f9fa37f8c",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.1-aarch64.tar.gz",
-      "build_number": "251.25410.120"
+      "version": "2025.1.2",
+      "sha256": "13ed96cc82771ec49ce8e9f72179ac12829f4bc2ffae6a9ab553708aec47d4a9",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.2-aarch64.tar.gz",
+      "build_number": "251.26094.122"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -313,10 +313,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "2f7c9b0ec1947c7bb2247fd3a949de9921e82e9a2801e388f6cf9d4421073dbd",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.1.dmg",
-      "build_number": "251.25410.148",
+      "version": "2025.1.2",
+      "sha256": "18b63995efa4e5ef555f08089c998694b4e3fcda84013155e970524f92c1b90e",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2.dmg",
+      "build_number": "251.26094.133",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -346,10 +346,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}.dmg",
-      "version": "2025.1.1",
-      "sha256": "97b154079ef326c9a3ce229129d7d220faee30f266954288f74bf6f27ee43942",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.1.dmg",
-      "build_number": "251.25410.120"
+      "version": "2025.1.2",
+      "sha256": "059d3d4c089b9277089bd7d64b8f6eedcf039fe791cddc694af434a1c5ad88c8",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.2.dmg",
+      "build_number": "251.26094.122"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
@@ -436,10 +436,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "8bb7acf16076e4a32b522107bc359197bb2ee0eeebe0ed5feb1d25d9110830c1",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.148",
+      "version": "2025.1.2",
+      "sha256": "0437ba56e1b12b1781ba132d10f9f66c6375cb0609b4755982c7edd1778a3a3b",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.133",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -469,10 +469,10 @@
     "ruby-mine": {
       "update-channel": "RubyMine RELEASE",
       "url-template": "https://download.jetbrains.com/ruby/RubyMine-{version}-aarch64.dmg",
-      "version": "2025.1.1",
-      "sha256": "6b8bd9c8ffeec01b0a907604d99cc77ede865aa9abf350e76957d9675ab8a810",
-      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.1-aarch64.dmg",
-      "build_number": "251.25410.120"
+      "version": "2025.1.2",
+      "sha256": "1da265fa947d5d1cf3075495414b9e65ec519a5bd9bee5ca2fa7df67bafdc352",
+      "url": "https://download.jetbrains.com/ruby/RubyMine-2025.1.2-aarch64.dmg",
+      "build_number": "251.26094.122"
     },
     "rust-rover": {
       "update-channel": "RustRover EAP",
