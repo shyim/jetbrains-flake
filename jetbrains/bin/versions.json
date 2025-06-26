@@ -67,10 +67,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.tar.gz",
-      "version": "2025.1.2",
-      "sha256": "229f3afde8e3466e1d262de915420f66a5fc97858788cc08f7d0f0b826c2a77b",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2.tar.gz",
-      "build_number": "251.26094.133",
+      "version": "2025.1.3",
+      "sha256": "cc113e0f6671c0aeef42122f4b3ae29f27b893ff180497eabab842ce5a9b2ca2",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.3.tar.gz",
+      "build_number": "251.26927.60",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -190,10 +190,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.tar.gz",
-      "version": "2025.1.2",
-      "sha256": "2c3b703fc1d97e87fa02664bd1165ecf8439898b0a4561f522edd0252606ab5a",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.tar.gz",
-      "build_number": "251.26094.133",
+      "version": "2025.1.3",
+      "sha256": "6d3f75acc847cf4c39110cb5f241b05ca3c78abd76debdbbd0b6a37d4807f539",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.3-aarch64.tar.gz",
+      "build_number": "251.26927.60",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -313,10 +313,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.dmg",
-      "version": "2025.1.2",
-      "sha256": "18b63995efa4e5ef555f08089c998694b4e3fcda84013155e970524f92c1b90e",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2.dmg",
-      "build_number": "251.26094.133",
+      "version": "2025.1.3",
+      "sha256": "abd27a6baffba215f6e25d79a6cd538736bca1e6d481563455b4a0621dd7fabc",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.3.dmg",
+      "build_number": "251.26927.60",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -436,10 +436,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.dmg",
-      "version": "2025.1.2",
-      "sha256": "0437ba56e1b12b1781ba132d10f9f66c6375cb0609b4755982c7edd1778a3a3b",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.2-aarch64.dmg",
-      "build_number": "251.26094.133",
+      "version": "2025.1.3",
+      "sha256": "34cb7ddf548f2a2883560e8b7a861d587a299b864e30cb8311cd37ec4ad54517",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.3-aarch64.dmg",
+      "build_number": "251.26927.60",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
