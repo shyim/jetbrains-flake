@@ -3,10 +3,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2025.1.4",
-      "sha256": "8d90be9d11c0f47b380f4a9f705058215817edf043bdcea2223d788d25193f78",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.4.tar.gz",
-      "build_number": "251.27812.15"
+      "version": "2025.2",
+      "sha256": "a12d094544f0b5222d34e2cd8b36b1ea834e7c7acdea7b65aae5cb3522ca108e",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.2.tar.gz",
+      "build_number": "252.23892.426"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -35,10 +35,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
-      "version": "2025.1.4",
-      "sha256": "42efe9cc97248403e868180339f403ab390e9a335a658bd7aa905b64c03c7a31",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.4.tar.gz",
-      "build_number": "251.27812.54"
+      "version": "2025.2",
+      "sha256": "d285c10055af9002db8c913557535ba46e3158c5733b236add3d71f93873e85a",
+      "url": "https://download.jetbrains.com/go/goland-2025.2.tar.gz",
+      "build_number": "252.23892.449"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -67,10 +67,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.tar.gz",
-      "version": "2025.1.4.1",
-      "sha256": "92cd8d570d0307188190761c7cd0d0f77351ff119735073c2a101e4a364292b4",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.4.1.tar.gz",
-      "build_number": "251.27812.52",
+      "version": "2025.2",
+      "sha256": "d0d3e61aaed7c4765b4947a8410a885cf7e1123c488340585ed72151f8c05350",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.2.tar.gz",
+      "build_number": "252.23892.419",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -126,10 +126,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.tar.gz",
-      "version": "2025.1.4",
-      "sha256": "0864c25fe8bb442b3891e51382de177ff5543bf075bbd1c12767984695f2dcaa",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.4-aarch64.tar.gz",
-      "build_number": "251.27812.15"
+      "version": "2025.2",
+      "sha256": "a594949bd15a70dd17906d056778b8107a209e0bc874a188b411da8e8f7e4f16",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.2-aarch64.tar.gz",
+      "build_number": "252.23892.426"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -158,10 +158,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.tar.gz",
-      "version": "2025.1.4",
-      "sha256": "4c24dddd6babfc36d70b0287bf32857d2c01c61d3ef1d2579a29f741c71fdad0",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.4-aarch64.tar.gz",
-      "build_number": "251.27812.54"
+      "version": "2025.2",
+      "sha256": "99a5f3e0455fddf62ce92644cb53906e4600da6d2d2dad89164c594c31faa157",
+      "url": "https://download.jetbrains.com/go/goland-2025.2-aarch64.tar.gz",
+      "build_number": "252.23892.449"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -190,10 +190,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.tar.gz",
-      "version": "2025.1.4.1",
-      "sha256": "3e06d34ec4a49faa88492e1d6fda8fc53c8e2d01839e553024b6b4e38e2ab9cf",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.4.1-aarch64.tar.gz",
-      "build_number": "251.27812.52",
+      "version": "2025.2",
+      "sha256": "06821ba75ce5dd5f192246befd5aedfc236606d8c4a1a2c15bf3d21a39c6cf04",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.2-aarch64.tar.gz",
+      "build_number": "252.23892.419",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -249,10 +249,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.dmg",
-      "version": "2025.1.4",
-      "sha256": "73076ec3803acaf61feb0181d60a0a4a13ff33b09997995f4a57b9dc37a175ac",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.4.dmg",
-      "build_number": "251.27812.15"
+      "version": "2025.2",
+      "sha256": "7fb1e9149b29e9794af5975715f14c65b856358ea64161eddb81a80e576158cf",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.2.dmg",
+      "build_number": "252.23892.426"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -281,10 +281,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
-      "version": "2025.1.4",
-      "sha256": "4b9ec3bf0cf040dd076b028f68f91815664cfdd11f51c68c54a60cbf1df3af25",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.4.dmg",
-      "build_number": "251.27812.54"
+      "version": "2025.2",
+      "sha256": "c42e150a88b9d9ef033a7ff3678eb891408668afe83179d4f678bb674dc8e424",
+      "url": "https://download.jetbrains.com/go/goland-2025.2.dmg",
+      "build_number": "252.23892.449"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -313,10 +313,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}.dmg",
-      "version": "2025.1.4.1",
-      "sha256": "ce91ad25859ce7081c2181468aa57fef76e4f394049cb90da5ab69f34d9d9209",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.4.1.dmg",
-      "build_number": "251.27812.52",
+      "version": "2025.2",
+      "sha256": "2a28e39d10e6470c25839698a160eb0076fb5f8a1e0e3cb9000876d05ab0d502",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.2.dmg",
+      "build_number": "252.23892.419",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
@@ -372,10 +372,10 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}-aarch64.dmg",
-      "version": "2025.1.4",
-      "sha256": "85e0f764787a3d910d92f3f61ea4b6b3ff46712c674154adbccafc45640e1ff2",
-      "url": "https://download.jetbrains.com/cpp/CLion-2025.1.4-aarch64.dmg",
-      "build_number": "251.27812.15"
+      "version": "2025.2",
+      "sha256": "40be28243da1bdb90308e997656af5872103a32d167e1539dd4e1b00a7ce0ea4",
+      "url": "https://download.jetbrains.com/cpp/CLion-2025.2-aarch64.dmg",
+      "build_number": "252.23892.426"
     },
     "datagrip": {
       "update-channel": "DataGrip RELEASE",
@@ -404,10 +404,10 @@
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}-aarch64.dmg",
-      "version": "2025.1.4",
-      "sha256": "3a49552e2c3a0a08b1758f9ab7ad2b119ca3fd1b5067b2432ac438537f53d5c8",
-      "url": "https://download.jetbrains.com/go/goland-2025.1.4-aarch64.dmg",
-      "build_number": "251.27812.54"
+      "version": "2025.2",
+      "sha256": "043600466d739338b9d24a472547b3d7133505165032459e9fe6f913b6920eac",
+      "url": "https://download.jetbrains.com/go/goland-2025.2-aarch64.dmg",
+      "build_number": "252.23892.449"
     },
     "idea-community": {
       "update-channel": "IntelliJ IDEA RELEASE",
@@ -436,10 +436,10 @@
     "phpstorm": {
       "update-channel": "PhpStorm RELEASE",
       "url-template": "https://download.jetbrains.com/webide/PhpStorm-{version}-aarch64.dmg",
-      "version": "2025.1.4.1",
-      "sha256": "69dbad250e42863c3b3bf724734d4428ff148c73cab39f8faf946ae44f9437a3",
-      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.1.4.1-aarch64.dmg",
-      "build_number": "251.27812.52",
+      "version": "2025.2",
+      "sha256": "d4ca651a534dfa72d6c6221c23a49bb4bf10a533013db71d51096bb380f1a9c0",
+      "url": "https://download.jetbrains.com/webide/PhpStorm-2025.2-aarch64.dmg",
+      "build_number": "252.23892.419",
       "version-major-minor": "2022.3"
     },
     "pycharm-community": {
