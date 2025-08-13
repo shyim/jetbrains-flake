@@ -19,10 +19,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}.tar.gz",
-      "version": "2025.1.2.1",
-      "sha256": "1759516154a989ad1bcbc0e0cc29eb7b50c5c96b910c1a8926ae87ea5aa07ea6",
-      "url": "https://download.jetbrains.com/python/dataspell-2025.1.2.1.tar.gz",
-      "build_number": "251.26927.91"
+      "version": "2025.2",
+      "sha256": "fd37e488b990e3e395a12c3ebbdb2b4df87c58eb9bb6c82fd38a0322b5c2fb2b",
+      "url": "https://download.jetbrains.com/python/dataspell-2025.2.tar.gz",
+      "build_number": "252.23892.514"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -76,18 +76,18 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}.tar.gz",
-      "version": "2025.2",
-      "sha256": "356dc81511bbd361c7f106fda8597503c6b9797d36a3a04434bbf0ec35a02434",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.tar.gz",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "2b95c6169c6f9bb00657e24cecdad23281c423b661918c09781894f3508f8672",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.0.1.tar.gz",
+      "build_number": "252.23892.515"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}.tar.gz",
-      "version": "2025.2",
-      "sha256": "bc3fbb31ea10e171686b9be8734051382233748502f124393c52848aefe97b32",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2.tar.gz",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "555a20eb9a695f52430fc3ef1b43c229186df5bf1c8962de55db0ef7eb308fb4",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2.0.1.tar.gz",
+      "build_number": "252.23892.515"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
@@ -142,10 +142,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}-aarch64.tar.gz",
-      "version": "2025.1.2.1",
-      "sha256": "a982a7e8d5b1c293b68983be792a60a885567e9af825e0fce4b2a4b6ac30c9ae",
-      "url": "https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.tar.gz",
-      "build_number": "251.26927.91"
+      "version": "2025.2",
+      "sha256": "3c4261682f54a283ce693315dde5f2a472fec91887cf37b8c6b87c73ce245d2c",
+      "url": "https://download.jetbrains.com/python/dataspell-2025.2-aarch64.tar.gz",
+      "build_number": "252.23892.514"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -199,18 +199,18 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}-aarch64.tar.gz",
-      "version": "2025.2",
-      "sha256": "2aab469f976c4aa7d6686c8cc81d647960a9496ea2f3aed01f1c09448b443efb",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2-aarch64.tar.gz",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "820f8f1a749d2544a4e4511ff23e8b55f3fe5faa4e0b715ba44999f784c5ac94",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.0.1-aarch64.tar.gz",
+      "build_number": "252.23892.515"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}-aarch64.tar.gz",
-      "version": "2025.2",
-      "sha256": "27a88a70b8c97be56cdc759cdd7612e55156d67c8bed5a5e23a5af42776bade9",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2-aarch64.tar.gz",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "d5a00d4774ad5861fad457494b644bb0ee4c6017f1f6c881da4afd23b44fdaf7",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2.0.1-aarch64.tar.gz",
+      "build_number": "252.23892.515"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
@@ -265,10 +265,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}.dmg",
-      "version": "2025.1.2.1",
-      "sha256": "21915425a004b9148ab5fb634ab919d328a692847f3229bcd060fc46c2b91e76",
-      "url": "https://download.jetbrains.com/python/dataspell-2025.1.2.1.dmg",
-      "build_number": "251.26927.91"
+      "version": "2025.2",
+      "sha256": "36bd810a0ab4fab0edcc135ef472a731f55c25af80d40b1e6d36a833302d525c",
+      "url": "https://download.jetbrains.com/python/dataspell-2025.2.dmg",
+      "build_number": "252.23892.514"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -322,18 +322,18 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}.dmg",
-      "version": "2025.2",
-      "sha256": "ee808240caab0d50932fe25cd3d93aeeb8a531bfbc5b034f0eff72716c3eb6a5",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.dmg",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "0fa4e9c93bcb1f0d56dd7faecbb01b38d3c07fbbcf4fc8c0ad4dc5dc2f15b5a9",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.0.1.dmg",
+      "build_number": "252.23892.515"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}.dmg",
-      "version": "2025.2",
-      "sha256": "66c6ae1e9e6531bc87f7527221d06647ce18fea15484ad9f371cc51f99a271a0",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2.dmg",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "440e613cc7e9d02ea27c921168b27a120e0eed5d084d878a6e7f9af3c874ac1a",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2.0.1.dmg",
+      "build_number": "252.23892.515"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
@@ -388,10 +388,10 @@
     "dataspell": {
       "update-channel": "DataSpell RELEASE",
       "url-template": "https://download.jetbrains.com/python/dataspell-{version}-aarch64.dmg",
-      "version": "2025.1.2.1",
-      "sha256": "97588c238523b2c492a322a0751173f908f31eb27e0d38f81dd51f670690a9a5",
-      "url": "https://download.jetbrains.com/python/dataspell-2025.1.2.1-aarch64.dmg",
-      "build_number": "251.26927.91"
+      "version": "2025.2",
+      "sha256": "484c6889a929c3ec572711164600ad93c927b57a3487636d672db77a1e9483f5",
+      "url": "https://download.jetbrains.com/python/dataspell-2025.2-aarch64.dmg",
+      "build_number": "252.23892.514"
     },
     "gateway": {
       "update-channel": "Gateway RELEASE",
@@ -445,18 +445,18 @@
     "pycharm-community": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-community-{version}-aarch64.dmg",
-      "version": "2025.2",
-      "sha256": "9fd11b6e5fe28d5e3cac86cac554b4e04f775254d141f3c7ec07ee9801ce8a00",
-      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2-aarch64.dmg",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "acdbfd143a7da358cbd9b1410eff8763f9650c58f9a976d80a9aa8977f358e00",
+      "url": "https://download.jetbrains.com/python/pycharm-community-2025.2.0.1-aarch64.dmg",
+      "build_number": "252.23892.515"
     },
     "pycharm-professional": {
       "update-channel": "PyCharm RELEASE",
       "url-template": "https://download.jetbrains.com/python/pycharm-professional-{version}-aarch64.dmg",
-      "version": "2025.2",
-      "sha256": "54b761294795146c575a22ea5d53bc7c0a05ab906836b544ff6b830b4b79b41b",
-      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2-aarch64.dmg",
-      "build_number": "252.23892.439"
+      "version": "2025.2.0.1",
+      "sha256": "9d3265dd828c45681ba608ee2325b3b560396b7048290d7c69714cbc99e86fd7",
+      "url": "https://download.jetbrains.com/python/pycharm-professional-2025.2.0.1-aarch64.dmg",
+      "build_number": "252.23892.515"
     },
     "rider": {
       "update-channel": "Rider RELEASE",
