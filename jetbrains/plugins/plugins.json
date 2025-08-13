@@ -16,17 +16,17 @@
         "webstorm"
       ],
       "builds": {
-        "251.23774.423": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "251.27812.87": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.300": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.409": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.411": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.415": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.419": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.426": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.449": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip"
+        "251.23774.423": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "251.27812.87": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.300": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.409": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.411": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.415": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.419": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.426": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.449": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.464": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip"
       },
       "name": "ideavim"
     },
@@ -63,9 +63,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/2162/820000/StringManipulation-9.16.0.zip"
       },
       "name": "stringmanipulation"
     },
@@ -93,9 +93,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/6954/809234/Kotlin-252.23892.360-IJ.zip"
       },
       "name": "kotlin"
     },
@@ -123,9 +123,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/6981/818238/ini-252.23892.449.zip"
       },
       "name": "ini"
     },
@@ -169,9 +169,9 @@
         "252.23892.409": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip",
         "252.23892.411": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/7322/819231/python-ce-252.23892.458.zip"
       },
       "name": "python-community-edition"
     },
@@ -199,9 +199,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar",
         "252.23892.419": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar",
         "252.23892.426": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar",
-        "252.23892.439": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar",
         "252.23892.449": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar",
-        "252.23892.464": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar"
+        "252.23892.464": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar",
+        "252.23892.515": "https://plugins.jetbrains.com/files/7425/760442/WakaTime.jar"
       },
       "name": "wakatime"
     },
@@ -240,9 +240,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip"
       },
       "name": "terraform-and-hcl"
     },
@@ -268,9 +268,9 @@
         "252.23892.415": null,
         "252.23892.419": null,
         "252.23892.426": null,
-        "252.23892.439": null,
         "252.23892.449": null,
-        "252.23892.464": null
+        "252.23892.464": null,
+        "252.23892.515": null
       },
       "name": "-deprecated-rust"
     },
@@ -296,9 +296,9 @@
         "252.23892.415": null,
         "252.23892.419": null,
         "252.23892.426": null,
-        "252.23892.439": null,
         "252.23892.449": null,
-        "252.23892.464": null
+        "252.23892.464": null,
+        "252.23892.515": null
       },
       "name": "-deprecated-rust-beta"
     },
@@ -320,15 +320,15 @@
       "builds": {
         "251.23774.423": null,
         "251.27812.87": "https://plugins.jetbrains.com/files/8554/768764/featuresTrainer-251.26094.133.zip",
-        "252.23892.300": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.409": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.411": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.415": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.419": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.426": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.449": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip"
+        "252.23892.300": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.409": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.411": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.415": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.419": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.426": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.449": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.464": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip"
       },
       "name": "ide-features-trainer"
     },
@@ -356,9 +356,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip"
       },
       "name": "nixidea"
     },
@@ -386,9 +386,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip"
       },
       "name": "-env-files"
     },
@@ -427,9 +427,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/10037/658496/intellij-csv-validator-4.0.2.zip"
       },
       "name": "csv-editor"
     },
@@ -457,9 +457,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/12062/796429/keymap-vscode-252.23892.201.zip"
       },
       "name": "vscode-keymap"
     },
@@ -487,9 +487,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/12559/796343/keymap-eclipse-252.23892.201.zip"
       },
       "name": "eclipse-keymap"
     },
@@ -517,9 +517,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/13017/796396/keymap-visualStudio-252.23892.201.zip"
       },
       "name": "visual-studio-keymap"
     },
@@ -547,9 +547,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar",
         "252.23892.419": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar",
         "252.23892.426": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar",
-        "252.23892.439": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar",
         "252.23892.449": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar",
-        "252.23892.464": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar"
+        "252.23892.464": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar",
+        "252.23892.515": "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar"
       },
       "name": "darcula-pitch-black"
     },
@@ -577,9 +577,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip"
       },
       "name": "grazie-pro"
     },
@@ -618,9 +618,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip"
       },
       "name": "github-copilot"
     },
@@ -648,9 +648,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip"
       },
       "name": "netbeans-6-5-keymap"
     },
@@ -678,9 +678,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar",
         "252.23892.419": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar",
         "252.23892.426": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar",
-        "252.23892.439": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar",
         "252.23892.449": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar",
-        "252.23892.464": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar"
+        "252.23892.464": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar",
+        "252.23892.515": "https://plugins.jetbrains.com/files/19668/817875/GerryThemesPro.jar"
       },
       "name": "gerry-themes-pro"
     },
@@ -719,9 +719,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip",
         "252.23892.419": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip",
         "252.23892.426": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip",
-        "252.23892.439": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip",
         "252.23892.449": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip",
-        "252.23892.464": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip"
+        "252.23892.464": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip",
+        "252.23892.515": "https://plugins.jetbrains.com/files/20146/811306/Mermaid-0.0.26_IJ.252.zip"
       },
       "name": "mermaid"
     },
@@ -749,9 +749,9 @@
         "252.23892.415": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar",
         "252.23892.419": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar",
         "252.23892.426": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar",
-        "252.23892.439": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar",
         "252.23892.449": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar",
-        "252.23892.464": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar"
+        "252.23892.464": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar",
+        "252.23892.515": "https://plugins.jetbrains.com/files/21396/720967/github-workflow-plugin-2025.0.0-instrumented.jar"
       },
       "name": "github-workflow"
     },
@@ -791,7 +791,7 @@
     "https://plugins.jetbrains.com/files/14059/82616/darcula-pitch-black.jar": "sha256-eXInfAqY3yEZRXCAuv3KGldM1pNKEioNwPB0rIGgJFw=",
     "https://plugins.jetbrains.com/files/16136/820004/grazie-pro-0.3.390-251.zip": "sha256-Xcnra9U8AtIylIOH87K1ksoXzWQ4ZXa0uiit+W6UATA=",
     "https://plugins.jetbrains.com/files/16136/820010/grazie-pro-0.3.390.zip": "sha256-O+Yx0N5OBL+RjPwzcjH0h0S4XCG3RI/ZJtoxeQxFmWk=",
-    "https://plugins.jetbrains.com/files/164/818417/IdeaVIM-2.27.0.zip": "sha256-UYYDZ7jXJqHcpzaTafbwaiyuHAW4a/nPyXZndryg2iQ=",
+    "https://plugins.jetbrains.com/files/164/822112/IdeaVIM-2.27.1.zip": "sha256-nM3JZS5nHZc7zXetKuR0WI51mmGD6dpSkw8jnQSS3Mo=",
     "https://plugins.jetbrains.com/files/17632/553915/shopware6-phpstorm-plugin-0.0.43-signed.zip": "sha256-2rt9gzZYWLN551+exEMERCJI2Whg+l5TRqdQnRER+48=",
     "https://plugins.jetbrains.com/files/17718/803946/github-copilot-intellij-1.5.52-243.zip": "sha256-rP2PplN9rOnKGWMdmXphdMeV0AqoauT0aIoKkgM7Hjw=",
     "https://plugins.jetbrains.com/files/18444/165585/NetBeans6.5Keymap.zip": "sha256-KrzZTKZMQqoEMw+vDUv2jjs0EX0leaPBkU8H/ecq/oI=",
@@ -816,7 +816,7 @@
     "https://plugins.jetbrains.com/files/7808/780441/terraform-251.26927.39.zip": "sha256-brt0UtAvD+mm4rU8fuvpo7YrW0uYe+iMl14zmRc727Y=",
     "https://plugins.jetbrains.com/files/7808/804744/terraform-252.23892.298.zip": "sha256-Tj2/7uZzt3dsouXKr81hb9xQKipXay9l6TyUDnL+pks=",
     "https://plugins.jetbrains.com/files/8554/768764/featuresTrainer-251.26094.133.zip": "sha256-qcMxLM2Y/Q18r718VasRMAlKppbH+ra/6eKCkmVL88s=",
-    "https://plugins.jetbrains.com/files/8554/819797/featuresTrainer-252.23892.464.zip": "sha256-BIz14Jbr9vX7GLdxW4u23lY8bFUm4SOu1CBj0i827A8=",
+    "https://plugins.jetbrains.com/files/8554/826552/featuresTrainer-252.23892.514.zip": "sha256-AQLuTcRERFq2ZfzOqUGMte/pLe7/3g6G+9UqNMuUYiY=",
     "https://plugins.jetbrains.com/files/8607/786671/NixIDEA-0.4.0.18.zip": "sha256-JShheBoOBiWM9HubMUJvBn4H3DnWykvqPyrmetaCZiM=",
     "https://plugins.jetbrains.com/files/9525/711041/dotenv-251.23774.318.zip": "sha256-0c/2qbuu+M6z0gvpme+Mkv23JlQKNTUU+9GL9mh2IFw=",
     "https://plugins.jetbrains.com/files/9525/796325/dotenv-252.23892.201.zip": "sha256-N0DNEtF3FDcRirfjfSCCVUbDIA4SB35F/9XY1tPXXmg=",
